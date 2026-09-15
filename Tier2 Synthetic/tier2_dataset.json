@@ -1,0 +1,1386 @@
+[
+    {
+        "snapshot_id": "ecommerce_before",
+        "domain": "ecommerce",
+        "state": "before",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "කරත්තයට එකතු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_1",
+        "domain": "ecommerce",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "පිවිසුම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසුම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "කරත්තයට එකතු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_2",
+        "domain": "ecommerce",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "ලොග් වන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "ලොග් වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "කරත්තයට එකතු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_3",
+        "domain": "ecommerce",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce_after_3.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "කරත්තයට එකතු කරන්න",
+        "after_text": "භාණ්ඩය එකතු කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "භාණ්ඩය එකතු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_4",
+        "domain": "ecommerce",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce_after_4.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "කරත්තයට එකතු කරන්න",
+        "after_text": "කරත්තයට දමන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "කරත්තයට දමන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_5",
+        "domain": "ecommerce",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Ecommerce/ecommerce_after_5.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "කරත්තයට එකතු කරන්න",
+        "after_text": "මිලදී ගැනුම් කරත්තයට එකතු කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "මිලදී ගැනුම් කරත්තයට එකතු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "භාණ්ඩ සොයන්න",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_before",
+        "domain": "healthcare",
+        "state": "before",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_1",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "පිවිසුම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසුම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_2",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "ලොග් වන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "ලොග් වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_3",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_3.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "වෙන් කරවා ගන්න",
+        "after_text": "චැනල් කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "චැනල් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_4",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_4.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "වෙන් කරවා ගන්න",
+        "after_text": "වේලාවක් වෙන් කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වේලාවක් වෙන් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_5",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_5.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "වෙන් කරවා ගන්න",
+        "after_text": "වෙන් කරවා ගැනීම තහවුරු කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගැනීම තහවුරු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_6",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_6.html",
+        "target_element_id": "cancelBtn",
+        "target_xpath_before": "//button[@id='cancelBtn']",
+        "before_text": "අවලංගු කරන්න",
+        "after_text": "අවලංගු කිරීම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "අවලංගු කිරීම",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_7",
+        "domain": "healthcare",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Healthcare/healthcare_after_7.html",
+        "target_element_id": "cancelBtn",
+        "target_xpath_before": "//button[@id='cancelBtn']",
+        "before_text": "අවලංගු කරන්න",
+        "after_text": "නවත්වන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "වෙන් කරවා ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "නවත්වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "වෛද්‍යවරයාගේ නම",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_before",
+        "domain": "government",
+        "state": "before",
+        "source_file": "Tier2 Synthetic/Government/government.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "ලේඛනය බාගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_1",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "පිවිසුම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසුම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "ලේඛනය බාගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_2",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "ලොග් වන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "ලොග් වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "ලේඛනය බාගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_3",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_3.html",
+        "target_element_id": "submitBtn",
+        "target_xpath_before": "//button[@id='submitBtn']",
+        "before_text": "ඉල්ලුම් කරන්න",
+        "after_text": "අයදුම්පත යවන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "අයදුම්පත යවන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "ලේඛනය බාගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_4",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_4.html",
+        "target_element_id": "submitBtn",
+        "target_xpath_before": "//button[@id='submitBtn']",
+        "before_text": "ඉල්ලුම් කරන්න",
+        "after_text": "ඉල්ලුම් පත්‍රය ඉදිරිපත් කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් පත්‍රය ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "ලේඛනය බාගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_5",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_5.html",
+        "target_element_id": "downloadBtn",
+        "target_xpath_before": "//button[@id='downloadBtn']",
+        "before_text": "ලේඛනය බාගන්න",
+        "after_text": "බාගත කරන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "බාගත කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_6",
+        "domain": "government",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Government/government_after_6.html",
+        "target_element_id": "downloadBtn",
+        "target_xpath_before": "//button[@id='downloadBtn']",
+        "before_text": "ලේඛනය බාගන්න",
+        "after_text": "බාගැනීම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "ඉල්ලුම් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "බාගැනීම",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "ජාතික හැඳුනුම්පත් අංකය",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_before",
+        "domain": "education",
+        "state": "before",
+        "source_file": "Tier2 Synthetic/Education/education.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩම අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_1",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "පිවිසුම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසුම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩම අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_2",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "පිවිසෙන්න",
+        "after_text": "ලොග් වන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "ලොග් වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩම අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_3",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_3.html",
+        "target_element_id": "startBtn",
+        "target_xpath_before": "//button[@id='startBtn']",
+        "before_text": "පාඩම අරඹන්න",
+        "after_text": "පාඩමට පිවිසෙන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩමට පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_4",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_4.html",
+        "target_element_id": "startBtn",
+        "target_xpath_before": "//button[@id='startBtn']",
+        "before_text": "පාඩම අරඹන්න",
+        "after_text": "ඉගෙනුම් කටයුතු අරඹන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "ඉගෙනුම් කටයුතු අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම ඉදිරිපත් කරන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_5",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_5.html",
+        "target_element_id": "submitAssignBtn",
+        "target_xpath_before": "//button[@id='submitAssignBtn']",
+        "before_text": "පැවරුම ඉදිරිපත් කරන්න",
+        "after_text": "ඉදිරිපත් කිරීම",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩම අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "ඉදිරිපත් කිරීම",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_6",
+        "domain": "education",
+        "state": "after",
+        "source_file": "Tier2 Synthetic/Education/education_after_6.html",
+        "target_element_id": "submitAssignBtn",
+        "target_xpath_before": "//button[@id='submitAssignBtn']",
+        "before_text": "පැවරුම ඉදිරිපත් කරන්න",
+        "after_text": "පැවරුම යවන්න",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "පාඩම අරඹන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "පැවරුම යවන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "පාඨමාලාව",
+                "bounding_box": null
+            }
+        ]
+    }
+]
