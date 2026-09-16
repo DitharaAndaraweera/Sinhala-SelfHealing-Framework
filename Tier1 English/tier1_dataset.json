@@ -1,0 +1,1414 @@
+[
+    {
+        "snapshot_id": "ecommerce_before",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "before",
+        "source_file": "Tier1 English/Ecommerce/ecommerce.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add to Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_1",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Log In",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Log In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add to Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_2",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Login",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Login",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add to Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_3",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_3.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "Add to Cart",
+        "after_text": "Add To Cart",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add To Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_4",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_4.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "Add to Cart",
+        "after_text": "Add to Basket",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add to Basket",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "ecommerce_after_5",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_5.html",
+        "target_element_id": "cartBtn",
+        "target_xpath_before": "//button[@id='cartBtn']",
+        "before_text": "Add to Cart",
+        "after_text": "Add Item to Cart",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add Item to Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_before",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "before",
+        "source_file": "Tier1 English/Healthcare/healthcare.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_1",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Log In",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Log In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_2",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Login",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Login",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_3",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_3.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "Book Appointment",
+        "after_text": "Book an Appointment",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book an Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_4",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_4.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "Book Appointment",
+        "after_text": "Make Appointment",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Make Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_5",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_5.html",
+        "target_element_id": "bookBtn",
+        "target_xpath_before": "//button[@id='bookBtn']",
+        "before_text": "Book Appointment",
+        "after_text": "Schedule Appointment",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Schedule Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_6",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_6.html",
+        "target_element_id": "cancelBtn",
+        "target_xpath_before": "//button[@id='cancelBtn']",
+        "before_text": "Cancel",
+        "after_text": "Cancel Booking",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel Booking",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_7",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_7.html",
+        "target_element_id": "cancelBtn",
+        "target_xpath_before": "//button[@id='cancelBtn']",
+        "before_text": "Cancel",
+        "after_text": "Dismiss",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Dismiss",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_before",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "before",
+        "source_file": "Tier1 English/Government/government.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_1",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Log In",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Log In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_2",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Login",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Login",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_3",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_3.html",
+        "target_element_id": "submitBtn",
+        "target_xpath_before": "//button[@id='submitBtn']",
+        "before_text": "Apply",
+        "after_text": "Apply Now",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_4",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_4.html",
+        "target_element_id": "submitBtn",
+        "target_xpath_before": "//button[@id='submitBtn']",
+        "before_text": "Apply",
+        "after_text": "Submit Application",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Submit Application",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_5",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_5.html",
+        "target_element_id": "downloadBtn",
+        "target_xpath_before": "//button[@id='downloadBtn']",
+        "before_text": "Download Document",
+        "after_text": "Download",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_6",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_6.html",
+        "target_element_id": "downloadBtn",
+        "target_xpath_before": "//button[@id='downloadBtn']",
+        "before_text": "Download Document",
+        "after_text": "Download File",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download File",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_before",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "before",
+        "source_file": "Tier1 English/Education/education.html",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_1",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_1.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Log In",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Log In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_2",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_2.html",
+        "target_element_id": "loginBtn",
+        "target_xpath_before": "//button[@id='loginBtn']",
+        "before_text": "Sign In",
+        "after_text": "Login",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Login",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_3",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_3.html",
+        "target_element_id": "startBtn",
+        "target_xpath_before": "//button[@id='startBtn']",
+        "before_text": "Start Lesson",
+        "after_text": "Start the Lesson",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start the Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_4",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_4.html",
+        "target_element_id": "startBtn",
+        "target_xpath_before": "//button[@id='startBtn']",
+        "before_text": "Start Lesson",
+        "after_text": "Begin Lesson",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Begin Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_5",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_5.html",
+        "target_element_id": "submitAssignBtn",
+        "target_xpath_before": "//button[@id='submitAssignBtn']",
+        "before_text": "Submit Assignment",
+        "after_text": "Submit",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_6",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_6.html",
+        "target_element_id": "submitAssignBtn",
+        "target_xpath_before": "//button[@id='submitAssignBtn']",
+        "before_text": "Submit Assignment",
+        "after_text": "Upload Assignment",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Upload Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    }
+]
