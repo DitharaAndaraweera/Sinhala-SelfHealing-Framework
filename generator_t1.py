@@ -2,14 +2,9 @@ import os
 import json
 import copy
 import random
+random.seed(42)
 from bs4 import BeautifulSoup
 
-# ============================================================
-# T1 (English Baseline) Mutation Catalogue
-# මේවා English UI වල typical inter-release text changes.
-# Sinhala වගේ morphological inflection නෙවෙයි - synonym swaps,
-# wording changes, capitalization වගේ SURFACE-LEVEL changes විතරයි.
-# ============================================================
 mutation_catalogue = {
     "Add to Cart": ["Add To Cart", "Add to Basket", "Add Item to Cart"],
     "Book Appointment": ["Book an Appointment", "Make Appointment", "Schedule Appointment"],
@@ -32,7 +27,6 @@ INTERACTABLE_TAGS = ['button', 'input', 'a', 'select', 'textarea']
 
 
 def get_xpath(element):
-    """Simple XPath builder - id තියෙනවනම් ID-based, නැත්නම් position-based"""
     if element.get('id'):
         return f"//{element.name}[@id='{element.get('id')}']"
     if element.parent:
@@ -43,7 +37,6 @@ def get_xpath(element):
 
 
 def extract_elements(soup):
-    """Page එකේ interactable elements ALL extract කරන function"""
     elements = []
     for tag in INTERACTABLE_TAGS:
         for el in soup.find_all(tag):
@@ -73,7 +66,6 @@ def generate_dataset():
         before_soup = BeautifulSoup(html_content, 'html.parser')
         before_elements = extract_elements(before_soup)
 
-        # ---- BEFORE snapshot record ----
         dataset_records.append({
             "snapshot_id": f"{domain_name}_before",
             "domain": domain_name,
@@ -101,7 +93,7 @@ def generate_dataset():
                     continue
                 mutated_element.string = variant
 
-                # --- Structural noise එකතු කිරීම (T2 script එකේම same logic) ---
+                # --- Class noise එකතු කිරීම ---
                 roll = random.random()
                 if roll < 0.5:
                     original_classes = mutated_element.get('class', [])
@@ -109,6 +101,18 @@ def generate_dataset():
                 elif roll < 0.8:
                     if mutated_element.has_attr('class'):
                         del mutated_element['class']
+
+                # --- Position noise එකතු කිරීම ---
+                if random.random() < 0.5:
+                    body_tag = mutated_soup.find('body')
+                    if body_tag:
+                        decoy = mutated_soup.new_tag('button')
+                        decoy['id'] = f'decoy_{domain_name}_{mutation_counter}'
+                        decoy['class'] = ['btn-decoy']
+                        decoy.string = 'Temporary Button'
+                        children_list = list(body_tag.children)
+                        insert_position = random.randint(0, len(children_list))
+                        body_tag.insert(insert_position, decoy)
 
                 after_file_path = file_path.replace('.html', f'_after_{mutation_counter}.html')
                 with open(after_file_path, 'w', encoding='utf-8') as af:

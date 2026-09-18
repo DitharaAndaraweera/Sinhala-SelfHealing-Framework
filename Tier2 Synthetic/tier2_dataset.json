@@ -65,6 +65,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_ecommerce_1",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_1']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "cartBtn",
                 "class_list": [
                     "btn-primary"
@@ -103,6 +113,16 @@
         "before_text": "පිවිසෙන්න",
         "after_text": "ලොග් වන්න",
         "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_2",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_2']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
             {
                 "tag": "button",
                 "id": "loginBtn",
@@ -167,10 +187,7 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [
-                    "btn-primary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "භාණ්ඩය එකතු කරන්න",
                 "bounding_box": null
@@ -205,6 +222,16 @@
         "before_text": "කරත්තයට එකතු කරන්න",
         "after_text": "කරත්තයට දමන්න",
         "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_4']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
             {
                 "tag": "button",
                 "id": "loginBtn",
@@ -269,7 +296,10 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "මිලදී ගැනුම් කරත්තයට එකතු කරන්න",
                 "bounding_box": null
@@ -282,6 +312,16 @@
                 ],
                 "xpath": "//button[@id='checkoutBtn']",
                 "visible_text": "මිලදී ගන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_5",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_5']",
+                "visible_text": "තාවකාලික බොත්තම",
                 "bounding_box": null
             },
             {
@@ -354,7 +394,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
@@ -381,6 +422,16 @@
                 "bounding_box": null
             },
             {
+                "tag": "button",
+                "id": "decoy_healthcare_1",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_1']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
                 "tag": "input",
                 "id": "doctorSearch",
                 "class_list": [],
@@ -404,10 +455,21 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "ලොග් වන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_healthcare_2",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_2']",
+                "visible_text": "තාවකාලික බොත්තම",
                 "bounding_box": null
             },
             {
@@ -462,10 +524,19 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_healthcare_3",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_3']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "bookBtn",
                 "class_list": [
-                    "btn-primary",
-                    "v2"
+                    "btn-primary"
                 ],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "චැනල් කරන්න",
@@ -513,10 +584,18 @@
             },
             {
                 "tag": "button",
-                "id": "bookBtn",
+                "id": "decoy_healthcare_4",
                 "class_list": [
-                    "btn-primary"
+                    "btn-decoy"
                 ],
+                "xpath": "//button[@id='decoy_healthcare_4']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "වේලාවක් වෙන් කරන්න",
                 "bounding_box": null
@@ -610,6 +689,16 @@
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසෙන්න",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_healthcare_6",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_6']",
+                "visible_text": "තාවකාලික බොත්තම",
                 "bounding_box": null
             },
             {
@@ -752,7 +841,9 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary"
+                ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
                 "bounding_box": null
@@ -1008,6 +1099,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_government_6",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_government_6']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
                     "btn-primary"
@@ -1019,9 +1120,7 @@
             {
                 "tag": "button",
                 "id": "downloadBtn",
-                "class_list": [
-                    "btn-info"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='downloadBtn']",
                 "visible_text": "බාගැනීම",
                 "bounding_box": null
@@ -1095,10 +1194,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
                 "bounding_box": null
@@ -1146,7 +1242,9 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary"
+                ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "ලොග් වන්න",
                 "bounding_box": null
@@ -1203,8 +1301,21 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_3",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_3']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "startBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "පාඩමට පිවිසෙන්න",
                 "bounding_box": null
@@ -1251,8 +1362,21 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_4']",
+                "visible_text": "තාවකාලික බොත්තම",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "startBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "ඉගෙනුම් කටයුතු අරඹන්න",
                 "bounding_box": null
@@ -1358,7 +1482,10 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-success",
+                    "v2"
+                ],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "පැවරුම යවන්න",
                 "bounding_box": null

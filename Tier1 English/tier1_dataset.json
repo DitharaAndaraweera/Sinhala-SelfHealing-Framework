@@ -60,12 +60,19 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_1",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_1']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -111,8 +118,21 @@
         "interactable_elements": [
             {
                 "tag": "button",
+                "id": "decoy_ecommerce_2",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_2']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "loginBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
                 "bounding_box": null
@@ -209,6 +229,16 @@
         "interactable_elements": [
             {
                 "tag": "button",
+                "id": "decoy_ecommerce_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_4']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
                     "btn-secondary"
@@ -272,7 +302,10 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "Add Item to Cart",
                 "bounding_box": null
@@ -285,6 +318,16 @@
                 ],
                 "xpath": "//button[@id='checkoutBtn']",
                 "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_5",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_5']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -359,7 +402,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
@@ -383,6 +427,16 @@
                 ],
                 "xpath": "//button[@id='cancelBtn']",
                 "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_healthcare_1",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_1']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -415,6 +469,16 @@
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_healthcare_2",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_2']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -470,8 +534,20 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_healthcare_3",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_3']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "bookBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary"
+                ],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "Book an Appointment",
                 "bounding_box": null
@@ -515,6 +591,16 @@
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_healthcare_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_4']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -569,7 +655,10 @@
             {
                 "tag": "button",
                 "id": "bookBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "Schedule Appointment",
                 "bounding_box": null
@@ -617,6 +706,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_healthcare_6",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_healthcare_6']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "bookBtn",
                 "class_list": [
                     "btn-primary"
@@ -629,7 +728,8 @@
                 "tag": "button",
                 "id": "cancelBtn",
                 "class_list": [
-                    "btn-danger"
+                    "btn-danger",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
                 "visible_text": "Cancel Booking",
@@ -680,8 +780,7 @@
                 "tag": "button",
                 "id": "cancelBtn",
                 "class_list": [
-                    "btn-danger",
-                    "v2"
+                    "btn-danger"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
                 "visible_text": "Dismiss",
@@ -758,7 +857,9 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary"
+                ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
                 "bounding_box": null
@@ -807,10 +908,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
                 "bounding_box": null
@@ -922,8 +1020,7 @@
                 "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
-                    "btn-primary",
-                    "v2"
+                    "btn-primary"
                 ],
                 "xpath": "//button[@id='submitBtn']",
                 "visible_text": "Submit Application",
@@ -984,8 +1081,7 @@
                 "tag": "button",
                 "id": "downloadBtn",
                 "class_list": [
-                    "btn-info",
-                    "v2"
+                    "btn-info"
                 ],
                 "xpath": "//button[@id='downloadBtn']",
                 "visible_text": "Download",
@@ -1024,6 +1120,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_government_6",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_government_6']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
                     "btn-primary"
@@ -1035,10 +1141,7 @@
             {
                 "tag": "button",
                 "id": "downloadBtn",
-                "class_list": [
-                    "btn-info",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='downloadBtn']",
                 "visible_text": "Download File",
                 "bounding_box": null
@@ -1163,7 +1266,9 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary"
+                ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
                 "bounding_box": null
@@ -1221,8 +1326,21 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_3",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_3']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "startBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "Start the Lesson",
                 "bounding_box": null
@@ -1270,9 +1388,20 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_4']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "startBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "Begin Lesson",
@@ -1382,7 +1511,8 @@
                 "tag": "button",
                 "id": "submitAssignBtn",
                 "class_list": [
-                    "btn-success"
+                    "btn-success",
+                    "v2"
                 ],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "Upload Assignment",

@@ -2,6 +2,7 @@ import os
 import json
 import copy
 import random
+random.seed(42)
 from bs4 import BeautifulSoup
 
 mutation_catalogue = {
@@ -91,7 +92,7 @@ def generate_dataset():
                     continue
                 mutated_element.string = variant
 
-                # --- Structural noise එකතු කිරීම ---
+                # --- Class noise එකතු කිරීම ---
                 roll = random.random()
                 if roll < 0.5:
                     original_classes = mutated_element.get('class', [])
@@ -99,6 +100,20 @@ def generate_dataset():
                 elif roll < 0.8:
                     if mutated_element.has_attr('class'):
                         del mutated_element['class']
+
+                # --- Position noise එකතු කිරීම ---
+                # Real DOM changes වලදී elements insert/reorder වෙනවා.
+                # මේකෙන් target element එකේ position "after" state එකේ shift වෙනවා.
+                if random.random() < 0.5:
+                    body_tag = mutated_soup.find('body')
+                    if body_tag:
+                        decoy = mutated_soup.new_tag('button')
+                        decoy['id'] = f'decoy_{domain_name}_{mutation_counter}'
+                        decoy['class'] = ['btn-decoy']
+                        decoy.string = 'තාවකාලික බොත්තම'
+                        children_list = list(body_tag.children)
+                        insert_position = random.randint(0, len(children_list))
+                        body_tag.insert(insert_position, decoy)
 
                 after_file_path = file_path.replace('.html', f'_after_{mutation_counter}.html')
                 with open(after_file_path, 'w', encoding='utf-8') as af:
