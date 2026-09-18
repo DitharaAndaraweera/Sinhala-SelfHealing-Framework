@@ -2,18 +2,58 @@ import os
 import json
 import copy
 import random
-random.seed(42)
 from bs4 import BeautifulSoup
 
+random.seed(42)
+
 mutation_catalogue = {
+    # Ecommerce
+    "Sign In": ["Log In", "Login", "Sign in to Account"],
     "Add to Cart": ["Add To Cart", "Add to Basket", "Add Item to Cart"],
+    "Buy Now": ["Purchase Now", "Buy It Now", "Checkout Now"],
+    "Remove Item": ["Remove", "Delete Item", "Remove from Cart"],
+    "Track Order": ["Track My Order", "View Order Status", "Order Tracking"],
+    "Apply Coupon": ["Use Coupon", "Redeem Coupon", "Enter Coupon Code"],
+    "Continue Shopping": ["Keep Shopping", "Back to Shop", "Browse More Items"],
+    "Add to Wishlist": ["Save to Wishlist", "Add to Favorites"],
+    "Write a Review": ["Leave a Review", "Add Review"],
+    "Compare": ["Add to Compare", "Compare Items"],
+
+    # Healthcare
     "Book Appointment": ["Book an Appointment", "Make Appointment", "Schedule Appointment"],
-    "Apply": ["Apply Now", "Submit Application"],
-    "Start Lesson": ["Start the Lesson", "Begin Lesson"],
-    "Sign In": ["Log In", "Login"],
-    "Cancel": ["Cancel Booking", "Dismiss"],
-    "Download Document": ["Download", "Download File"],
-    "Submit Assignment": ["Submit", "Upload Assignment"]
+    "Cancel": ["Cancel Booking", "Dismiss", "Cancel Appointment"],
+    "Submit Symptoms": ["Report Symptoms", "Send Symptoms", "Describe Symptoms"],
+    "View Reports": ["Check Reports", "See Medical Reports", "View Test Results"],
+    "Contact Support": ["Get Help", "Reach Support Team", "Contact Help Desk"],
+    "Pay Bill": ["Make Payment", "Pay Invoice", "Settle Bill"],
+    "View Prescription": ["See Prescription", "Check Medication List"],
+    "Reschedule": ["Change Appointment Time", "Reschedule Booking"],
+    "Give Feedback": ["Submit Feedback", "Share Your Feedback"],
+
+    # Government
+    "Apply": ["Apply Now", "Submit Application", "Start Application"],
+    "Download Document": ["Download", "Download File", "Get Document"],
+    "Check Status": ["View Status", "Track Status", "Check Application Status"],
+    "Renew License": ["Renew", "Update License", "Apply for Renewal"],
+    "Pay Fine": ["Pay Penalty", "Make Payment", "Settle Fine"],
+    "Contact Us": ["Send Inquiry", "Get in Touch", "Reach Out"],
+    "Upload Documents": ["Attach Files", "Upload Files"],
+    "Reserve Appointment": ["Book a Slot", "Schedule a Visit"],
+    "Submit Complaint": ["File a Complaint", "Send Complaint"],
+
+    # Education
+    "Start Lesson": ["Start the Lesson", "Begin Lesson", "Begin the Class"],
+    "Submit Assignment": ["Submit", "Upload Assignment", "Turn In Assignment"],
+    "Enroll Now": ["Enroll", "Register for Course", "Sign Up for Course"],
+    "Start Quiz": ["Begin Quiz", "Take the Quiz", "Start the Test"],
+    "View Grades": ["Check Grades", "See Results", "View Marks"],
+    "Download Material": ["Download", "Get Course Material", "Download Notes"],
+    "Download Certificate": ["Get Certificate", "Download Certification"],
+    "Join Discussion": ["Go to Discussion Board", "Join the Conversation"],
+    "View Schedule": ["Check Schedule", "See Timetable"],
+
+    # Common
+    "Log Out": ["Sign Out", "Logout", "Exit Account"],
 }
 
 domains = {
@@ -93,7 +133,6 @@ def generate_dataset():
                     continue
                 mutated_element.string = variant
 
-                # --- Class noise එකතු කිරීම ---
                 roll = random.random()
                 if roll < 0.5:
                     original_classes = mutated_element.get('class', [])
@@ -102,7 +141,6 @@ def generate_dataset():
                     if mutated_element.has_attr('class'):
                         del mutated_element['class']
 
-                # --- Position noise එකතු කිරීම ---
                 if random.random() < 0.5:
                     body_tag = mutated_soup.find('body')
                     if body_tag:
@@ -138,7 +176,6 @@ def generate_dataset():
         json.dump(dataset_records, out_f, ensure_ascii=False, indent=4)
 
     print(f"T1 English dataset generation completed! Total snapshot records: {len(dataset_records)}")
-    print(f"Physical 'after' HTML files saved inside each domain folder.")
     print(f"JSON saved to: {output_json_path}")
 
 
