@@ -58,9 +58,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
                 "bounding_box": null
@@ -109,7 +107,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "ලොග් වන්න",
@@ -169,7 +168,8 @@
                 "tag": "button",
                 "id": "cartBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "භාණ්ඩය එකතු කරන්න",
@@ -219,7 +219,8 @@
                 "tag": "button",
                 "id": "cartBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "කරත්තයට දමන්න",
@@ -268,9 +269,7 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "මිලදී ගැනුම් කරත්තයට එකතු කරන්න",
                 "bounding_box": null
@@ -465,7 +464,8 @@
                 "tag": "button",
                 "id": "bookBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "චැනල් කරන්න",
@@ -565,7 +565,8 @@
                 "tag": "button",
                 "id": "bookBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "වෙන් කරවා ගැනීම තහවුරු කරන්න",
@@ -625,7 +626,8 @@
                 "tag": "button",
                 "id": "cancelBtn",
                 "class_list": [
-                    "btn-danger"
+                    "btn-danger",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
                 "visible_text": "අවලංගු කිරීම",
@@ -750,9 +752,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
                 "bounding_box": null
@@ -800,9 +800,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "ලොග් වන්න",
                 "bounding_box": null
@@ -861,7 +859,8 @@
                 "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='submitBtn']",
                 "visible_text": "අයදුම්පත යවන්න",
@@ -1097,7 +1096,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "පිවිසුම",
@@ -1146,9 +1146,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "ලොග් වන්න",
                 "bounding_box": null
@@ -1206,9 +1204,7 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "පාඩමට පිවිසෙන්න",
                 "bounding_box": null
@@ -1256,9 +1252,7 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "ඉගෙනුම් කටයුතු අරඹන්න",
                 "bounding_box": null
@@ -1316,9 +1310,7 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "ඉදිරිපත් කිරීම",
                 "bounding_box": null
@@ -1366,9 +1358,7 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "පැවරුම යවන්න",
                 "bounding_box": null

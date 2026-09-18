@@ -61,7 +61,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
@@ -111,9 +112,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
                 "bounding_box": null
@@ -172,9 +171,7 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "Add To Cart",
                 "bounding_box": null
@@ -224,7 +221,8 @@
                 "tag": "button",
                 "id": "cartBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "Add to Basket",
@@ -274,9 +272,7 @@
             {
                 "tag": "button",
                 "id": "cartBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='cartBtn']",
                 "visible_text": "Add Item to Cart",
                 "bounding_box": null
@@ -414,7 +410,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
@@ -474,9 +471,7 @@
             {
                 "tag": "button",
                 "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "Book an Appointment",
                 "bounding_box": null
@@ -525,9 +520,7 @@
             {
                 "tag": "button",
                 "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "Make Appointment",
                 "bounding_box": null
@@ -576,9 +569,7 @@
             {
                 "tag": "button",
                 "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='bookBtn']",
                 "visible_text": "Schedule Appointment",
                 "bounding_box": null
@@ -689,7 +680,8 @@
                 "tag": "button",
                 "id": "cancelBtn",
                 "class_list": [
-                    "btn-danger"
+                    "btn-danger",
+                    "v2"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
                 "visible_text": "Dismiss",
@@ -766,9 +758,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
                 "bounding_box": null
@@ -818,7 +808,8 @@
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
@@ -879,7 +870,8 @@
                 "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='submitBtn']",
                 "visible_text": "Apply Now",
@@ -930,7 +922,8 @@
                 "tag": "button",
                 "id": "submitBtn",
                 "class_list": [
-                    "btn-primary"
+                    "btn-primary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='submitBtn']",
                 "visible_text": "Submit Application",
@@ -991,7 +984,8 @@
                 "tag": "button",
                 "id": "downloadBtn",
                 "class_list": [
-                    "btn-info"
+                    "btn-info",
+                    "v2"
                 ],
                 "xpath": "//button[@id='downloadBtn']",
                 "visible_text": "Download",
@@ -1042,7 +1036,8 @@
                 "tag": "button",
                 "id": "downloadBtn",
                 "class_list": [
-                    "btn-info"
+                    "btn-info",
+                    "v2"
                 ],
                 "xpath": "//button[@id='downloadBtn']",
                 "visible_text": "Download File",
@@ -1119,9 +1114,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Log In",
                 "bounding_box": null
@@ -1170,9 +1163,7 @@
             {
                 "tag": "button",
                 "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Login",
                 "bounding_box": null
@@ -1231,9 +1222,7 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='startBtn']",
                 "visible_text": "Start the Lesson",
                 "bounding_box": null
@@ -1343,9 +1332,7 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "Submit",
                 "bounding_box": null

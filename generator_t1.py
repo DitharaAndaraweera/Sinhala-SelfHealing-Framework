@@ -1,15 +1,14 @@
 import os
 import json
 import copy
+import random
 from bs4 import BeautifulSoup
 
 # ============================================================
 # T1 (English Baseline) Mutation Catalogue
-# NOTE: මේවා English UI වල typical inter-release text changes.
+# මේවා English UI වල typical inter-release text changes.
 # Sinhala වගේ morphological inflection නෙවෙයි - synonym swaps,
 # wording changes, capitalization වගේ SURFACE-LEVEL changes විතරයි.
-# මේකයි key difference එක - T1 එකේ character-level similarity
-# ඉහළයි, T2 එකේ අඩුයි. ඒක තමයි ඔයාගේ RQ1 හි core claim එක.
 # ============================================================
 mutation_catalogue = {
     "Add to Cart": ["Add To Cart", "Add to Basket", "Add Item to Cart"],
@@ -101,6 +100,15 @@ def generate_dataset():
                 if mutated_element is None:
                     continue
                 mutated_element.string = variant
+
+                # --- Structural noise එකතු කිරීම (T2 script එකේම same logic) ---
+                roll = random.random()
+                if roll < 0.5:
+                    original_classes = mutated_element.get('class', [])
+                    mutated_element['class'] = original_classes + ['v2']
+                elif roll < 0.8:
+                    if mutated_element.has_attr('class'):
+                        del mutated_element['class']
 
                 after_file_path = file_path.replace('.html', f'_after_{mutation_counter}.html')
                 with open(after_file_path, 'w', encoding='utf-8') as af:
