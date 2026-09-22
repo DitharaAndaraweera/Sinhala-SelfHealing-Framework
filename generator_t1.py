@@ -6,54 +6,62 @@ from bs4 import BeautifulSoup
 
 random.seed(42)
 
+# ============================================================
+# T1 (English) Mutation Catalogue - CORRECTED for FAIR comparison
+# දැන් T2 (Sinhala) එකේ pattern එකම follow කරනවා: root word එකම
+# තියාගෙන, grammar form විතරයි වෙනස් වෙන්නේ
+# (imperative → gerund/infinitive → past tense).
+# Synonym swaps (Sign In → Log In) දැන් ඉවත් කරලා තියෙනවා,
+# මොකද ඒවා T2 එකේ inflection-only approach එකට match වෙන්නේ නෑ.
+# ============================================================
 mutation_catalogue = {
     # Ecommerce
-    "Sign In": ["Log In", "Login", "Sign in to Account"],
-    "Add to Cart": ["Add To Cart", "Add to Basket", "Add Item to Cart"],
-    "Buy Now": ["Purchase Now", "Buy It Now", "Checkout Now"],
-    "Remove Item": ["Remove", "Delete Item", "Remove from Cart"],
-    "Track Order": ["Track My Order", "View Order Status", "Order Tracking"],
-    "Apply Coupon": ["Use Coupon", "Redeem Coupon", "Enter Coupon Code"],
-    "Continue Shopping": ["Keep Shopping", "Back to Shop", "Browse More Items"],
-    "Add to Wishlist": ["Save to Wishlist", "Add to Favorites"],
-    "Write a Review": ["Leave a Review", "Add Review"],
-    "Compare": ["Add to Compare", "Compare Items"],
+    "Sign In": ["Signing In", "To Sign In", "Signed In"],
+    "Add to Cart": ["Adding to Cart", "To Add to Cart", "Added to Cart"],
+    "Buy Now": ["Buying Now", "To Buy Now", "Bought Now"],
+    "Remove Item": ["Removing Item", "To Remove Item", "Removed Item"],
+    "Track Order": ["Tracking Order", "To Track Order", "Tracked Order"],
+    "Apply Coupon": ["Applying Coupon", "To Apply Coupon", "Applied Coupon"],
+    "Continue Shopping": ["Continuing Shopping", "To Continue Shopping"],
+    "Add to Wishlist": ["Adding to Wishlist", "To Add to Wishlist"],
+    "Write a Review": ["Writing a Review", "To Write a Review"],
+    "Compare": ["Comparing", "To Compare", "Compared"],
 
     # Healthcare
-    "Book Appointment": ["Book an Appointment", "Make Appointment", "Schedule Appointment"],
-    "Cancel": ["Cancel Booking", "Dismiss", "Cancel Appointment"],
-    "Submit Symptoms": ["Report Symptoms", "Send Symptoms", "Describe Symptoms"],
-    "View Reports": ["Check Reports", "See Medical Reports", "View Test Results"],
-    "Contact Support": ["Get Help", "Reach Support Team", "Contact Help Desk"],
-    "Pay Bill": ["Make Payment", "Pay Invoice", "Settle Bill"],
-    "View Prescription": ["See Prescription", "Check Medication List"],
-    "Reschedule": ["Change Appointment Time", "Reschedule Booking"],
-    "Give Feedback": ["Submit Feedback", "Share Your Feedback"],
+    "Book Appointment": ["Booking Appointment", "To Book Appointment", "Booked Appointment"],
+    "Cancel": ["Cancelling", "To Cancel", "Cancelled"],
+    "Submit Symptoms": ["Submitting Symptoms", "To Submit Symptoms", "Symptoms Submitted"],
+    "View Reports": ["Viewing Reports", "To View Reports", "Reports Viewed"],
+    "Contact Support": ["Contacting Support", "To Contact Support"],
+    "Pay Bill": ["Paying Bill", "To Pay Bill", "Bill Paid"],
+    "View Prescription": ["Viewing Prescription", "To View Prescription"],
+    "Reschedule": ["Rescheduling", "To Reschedule", "Rescheduled"],
+    "Give Feedback": ["Giving Feedback", "To Give Feedback"],
 
     # Government
-    "Apply": ["Apply Now", "Submit Application", "Start Application"],
-    "Download Document": ["Download", "Download File", "Get Document"],
-    "Check Status": ["View Status", "Track Status", "Check Application Status"],
-    "Renew License": ["Renew", "Update License", "Apply for Renewal"],
-    "Pay Fine": ["Pay Penalty", "Make Payment", "Settle Fine"],
-    "Contact Us": ["Send Inquiry", "Get in Touch", "Reach Out"],
-    "Upload Documents": ["Attach Files", "Upload Files"],
-    "Reserve Appointment": ["Book a Slot", "Schedule a Visit"],
-    "Submit Complaint": ["File a Complaint", "Send Complaint"],
+    "Apply": ["Applying", "To Apply", "Applied"],
+    "Download Document": ["Downloading Document", "To Download Document", "Document Downloaded"],
+    "Check Status": ["Checking Status", "To Check Status", "Status Checked"],
+    "Renew License": ["Renewing License", "To Renew License", "License Renewed"],
+    "Pay Fine": ["Paying Fine", "To Pay Fine", "Fine Paid"],
+    "Contact Us": ["Contacting Us", "To Contact Us"],
+    "Upload Documents": ["Uploading Documents", "To Upload Documents", "Documents Uploaded"],
+    "Reserve Appointment": ["Reserving Appointment", "To Reserve Appointment"],
+    "Submit Complaint": ["Submitting Complaint", "To Submit Complaint", "Complaint Submitted"],
 
     # Education
-    "Start Lesson": ["Start the Lesson", "Begin Lesson", "Begin the Class"],
-    "Submit Assignment": ["Submit", "Upload Assignment", "Turn In Assignment"],
-    "Enroll Now": ["Enroll", "Register for Course", "Sign Up for Course"],
-    "Start Quiz": ["Begin Quiz", "Take the Quiz", "Start the Test"],
-    "View Grades": ["Check Grades", "See Results", "View Marks"],
-    "Download Material": ["Download", "Get Course Material", "Download Notes"],
-    "Download Certificate": ["Get Certificate", "Download Certification"],
-    "Join Discussion": ["Go to Discussion Board", "Join the Conversation"],
-    "View Schedule": ["Check Schedule", "See Timetable"],
+    "Start Lesson": ["Starting Lesson", "To Start Lesson", "Lesson Started"],
+    "Submit Assignment": ["Submitting Assignment", "To Submit Assignment", "Assignment Submitted"],
+    "Enroll Now": ["Enrolling Now", "To Enroll Now", "Enrolled"],
+    "Start Quiz": ["Starting Quiz", "To Start Quiz", "Quiz Started"],
+    "View Grades": ["Viewing Grades", "To View Grades", "Grades Viewed"],
+    "Download Material": ["Downloading Material", "To Download Material", "Material Downloaded"],
+    "Download Certificate": ["Downloading Certificate", "To Download Certificate"],
+    "Join Discussion": ["Joining Discussion", "To Join Discussion"],
+    "View Schedule": ["Viewing Schedule", "To View Schedule"],
 
     # Common
-    "Log Out": ["Sign Out", "Logout", "Exit Account"],
+    "Log Out": ["Logging Out", "To Log Out", "Logged Out"],
 }
 
 domains = {

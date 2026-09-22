@@ -74,7 +74,7 @@ def evaluate(dataset_path, condition="C1"):
 
 if __name__ == "__main__":
     print("############ TIER 2 - SINHALA SYNTHETIC ############")
-    for cond in ["C0", "C1"]:
+    for cond in ["C0", "C1", "C2"]:
         evaluate("Tier2 Synthetic/tier2_dataset.json", condition=cond)
 
     print("\n\n############ TIER 1 - ENGLISH BASELINE ############")

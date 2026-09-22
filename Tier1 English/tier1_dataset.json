@@ -135,14 +135,14 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Log In",
+        "after_text": "Signing In",
         "interactable_elements": [
             {
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Log In",
+                "visible_text": "Signing In",
                 "bounding_box": null
             },
             {
@@ -274,7 +274,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Login",
+        "after_text": "To Sign In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -284,7 +284,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Login",
+                "visible_text": "To Sign In",
                 "bounding_box": null
             },
             {
@@ -416,14 +416,14 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Sign in to Account",
+        "after_text": "Signed In",
         "interactable_elements": [
             {
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign in to Account",
+                "visible_text": "Signed In",
                 "bounding_box": null
             },
             {
@@ -545,7 +545,7 @@
         "target_element_id": "cartBtn",
         "target_xpath_before": "//button[@id='cartBtn']",
         "before_text": "Add to Cart",
-        "after_text": "Add To Cart",
+        "after_text": "Adding to Cart",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -575,7 +575,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
-                "visible_text": "Add To Cart",
+                "visible_text": "Adding to Cart",
                 "bounding_box": null
             },
             {
@@ -687,7 +687,7 @@
         "target_element_id": "cartBtn",
         "target_xpath_before": "//button[@id='cartBtn']",
         "before_text": "Add to Cart",
-        "after_text": "Add to Basket",
+        "after_text": "To Add to Cart",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -707,7 +707,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
-                "visible_text": "Add to Basket",
+                "visible_text": "To Add to Cart",
                 "bounding_box": null
             },
             {
@@ -829,7 +829,7 @@
         "target_element_id": "cartBtn",
         "target_xpath_before": "//button[@id='cartBtn']",
         "before_text": "Add to Cart",
-        "after_text": "Add Item to Cart",
+        "after_text": "Added to Cart",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -849,7 +849,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='cartBtn']",
-                "visible_text": "Add Item to Cart",
+                "visible_text": "Added to Cart",
                 "bounding_box": null
             },
             {
@@ -971,7 +971,7 @@
         "target_element_id": "checkoutBtn",
         "target_xpath_before": "//button[@id='checkoutBtn']",
         "before_text": "Buy Now",
-        "after_text": "Purchase Now",
+        "after_text": "Buying Now",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -998,7 +998,7 @@
                 "id": "checkoutBtn",
                 "class_list": [],
                 "xpath": "//button[@id='checkoutBtn']",
-                "visible_text": "Purchase Now",
+                "visible_text": "Buying Now",
                 "bounding_box": null
             },
             {
@@ -1110,7 +1110,7 @@
         "target_element_id": "checkoutBtn",
         "target_xpath_before": "//button[@id='checkoutBtn']",
         "before_text": "Buy Now",
-        "after_text": "Buy It Now",
+        "after_text": "To Buy Now",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1137,7 +1137,7 @@
                 "id": "checkoutBtn",
                 "class_list": [],
                 "xpath": "//button[@id='checkoutBtn']",
-                "visible_text": "Buy It Now",
+                "visible_text": "To Buy Now",
                 "bounding_box": null
             },
             {
@@ -1239,7 +1239,7 @@
         "target_element_id": "checkoutBtn",
         "target_xpath_before": "//button[@id='checkoutBtn']",
         "before_text": "Buy Now",
-        "after_text": "Checkout Now",
+        "after_text": "Bought Now",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1269,7 +1269,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='checkoutBtn']",
-                "visible_text": "Checkout Now",
+                "visible_text": "Bought Now",
                 "bounding_box": null
             },
             {
@@ -1371,7 +1371,7 @@
         "target_element_id": "removeBtn",
         "target_xpath_before": "//button[@id='removeBtn']",
         "before_text": "Remove Item",
-        "after_text": "Remove",
+        "after_text": "Removing Item",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1418,7 +1418,7 @@
                 "id": "removeBtn",
                 "class_list": [],
                 "xpath": "//button[@id='removeBtn']",
-                "visible_text": "Remove",
+                "visible_text": "Removing Item",
                 "bounding_box": null
             },
             {
@@ -1510,7 +1510,7 @@
         "target_element_id": "removeBtn",
         "target_xpath_before": "//button[@id='removeBtn']",
         "before_text": "Remove Item",
-        "after_text": "Delete Item",
+        "after_text": "To Remove Item",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1550,7 +1550,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='removeBtn']",
-                "visible_text": "Delete Item",
+                "visible_text": "To Remove Item",
                 "bounding_box": null
             },
             {
@@ -1642,7 +1642,7 @@
         "target_element_id": "removeBtn",
         "target_xpath_before": "//button[@id='removeBtn']",
         "before_text": "Remove Item",
-        "after_text": "Remove from Cart",
+        "after_text": "Removed Item",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1682,7 +1682,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='removeBtn']",
-                "visible_text": "Remove from Cart",
+                "visible_text": "Removed Item",
                 "bounding_box": null
             },
             {
@@ -1784,7 +1784,7 @@
         "target_element_id": "trackBtn",
         "target_xpath_before": "//button[@id='trackBtn']",
         "before_text": "Track Order",
-        "after_text": "Track My Order",
+        "after_text": "Tracking Order",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1833,7 +1833,7 @@
                     "btn-info"
                 ],
                 "xpath": "//button[@id='trackBtn']",
-                "visible_text": "Track My Order",
+                "visible_text": "Tracking Order",
                 "bounding_box": null
             },
             {
@@ -1915,7 +1915,7 @@
         "target_element_id": "trackBtn",
         "target_xpath_before": "//button[@id='trackBtn']",
         "before_text": "Track Order",
-        "after_text": "View Order Status",
+        "after_text": "To Track Order",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -1964,7 +1964,7 @@
                     "btn-info"
                 ],
                 "xpath": "//button[@id='trackBtn']",
-                "visible_text": "View Order Status",
+                "visible_text": "To Track Order",
                 "bounding_box": null
             },
             {
@@ -2046,7 +2046,7 @@
         "target_element_id": "trackBtn",
         "target_xpath_before": "//button[@id='trackBtn']",
         "before_text": "Track Order",
-        "after_text": "Order Tracking",
+        "after_text": "Tracked Order",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2093,7 +2093,7 @@
                 "id": "trackBtn",
                 "class_list": [],
                 "xpath": "//button[@id='trackBtn']",
-                "visible_text": "Order Tracking",
+                "visible_text": "Tracked Order",
                 "bounding_box": null
             },
             {
@@ -2175,7 +2175,7 @@
         "target_element_id": "couponBtn",
         "target_xpath_before": "//button[@id='couponBtn']",
         "before_text": "Apply Coupon",
-        "after_text": "Use Coupon",
+        "after_text": "Applying Coupon",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2235,7 +2235,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='couponBtn']",
-                "visible_text": "Use Coupon",
+                "visible_text": "Applying Coupon",
                 "bounding_box": null
             },
             {
@@ -2307,7 +2307,7 @@
         "target_element_id": "couponBtn",
         "target_xpath_before": "//button[@id='couponBtn']",
         "before_text": "Apply Coupon",
-        "after_text": "Redeem Coupon",
+        "after_text": "To Apply Coupon",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2366,7 +2366,7 @@
                     "btn-warning"
                 ],
                 "xpath": "//button[@id='couponBtn']",
-                "visible_text": "Redeem Coupon",
+                "visible_text": "To Apply Coupon",
                 "bounding_box": null
             },
             {
@@ -2438,7 +2438,7 @@
         "target_element_id": "couponBtn",
         "target_xpath_before": "//button[@id='couponBtn']",
         "before_text": "Apply Coupon",
-        "after_text": "Enter Coupon Code",
+        "after_text": "Applied Coupon",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2497,7 +2497,7 @@
                     "btn-warning"
                 ],
                 "xpath": "//button[@id='couponBtn']",
-                "visible_text": "Enter Coupon Code",
+                "visible_text": "Applied Coupon",
                 "bounding_box": null
             },
             {
@@ -2569,7 +2569,7 @@
         "target_element_id": "continueBtn",
         "target_xpath_before": "//button[@id='continueBtn']",
         "before_text": "Continue Shopping",
-        "after_text": "Keep Shopping",
+        "after_text": "Continuing Shopping",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2646,7 +2646,7 @@
                 "id": "continueBtn",
                 "class_list": [],
                 "xpath": "//button[@id='continueBtn']",
-                "visible_text": "Keep Shopping",
+                "visible_text": "Continuing Shopping",
                 "bounding_box": null
             },
             {
@@ -2708,7 +2708,7 @@
         "target_element_id": "continueBtn",
         "target_xpath_before": "//button[@id='continueBtn']",
         "before_text": "Continue Shopping",
-        "after_text": "Back to Shop",
+        "after_text": "To Continue Shopping",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2775,7 +2775,7 @@
                 "id": "continueBtn",
                 "class_list": [],
                 "xpath": "//button[@id='continueBtn']",
-                "visible_text": "Back to Shop",
+                "visible_text": "To Continue Shopping",
                 "bounding_box": null
             },
             {
@@ -2834,10 +2834,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Ecommerce/ecommerce_after_21.html",
-        "target_element_id": "continueBtn",
-        "target_xpath_before": "//button[@id='continueBtn']",
-        "before_text": "Continue Shopping",
-        "after_text": "Browse More Items",
+        "target_element_id": "wishlistBtn",
+        "target_xpath_before": "//button[@id='wishlistBtn']",
+        "before_text": "Add to Wishlist",
+        "after_text": "Adding to Wishlist",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -2906,7 +2906,7 @@
                     "btn-secondary"
                 ],
                 "xpath": "//button[@id='continueBtn']",
-                "visible_text": "Browse More Items",
+                "visible_text": "Continue Shopping",
                 "bounding_box": null
             },
             {
@@ -2916,7 +2916,7 @@
                     "btn-info"
                 ],
                 "xpath": "//button[@id='wishlistBtn']",
-                "visible_text": "Add to Wishlist",
+                "visible_text": "Adding to Wishlist",
                 "bounding_box": null
             },
             {
@@ -2968,7 +2968,7 @@
         "target_element_id": "wishlistBtn",
         "target_xpath_before": "//button[@id='wishlistBtn']",
         "before_text": "Add to Wishlist",
-        "after_text": "Save to Wishlist",
+        "after_text": "To Add to Wishlist",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3058,7 +3058,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='wishlistBtn']",
-                "visible_text": "Save to Wishlist",
+                "visible_text": "To Add to Wishlist",
                 "bounding_box": null
             },
             {
@@ -3107,152 +3107,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Ecommerce/ecommerce_after_23.html",
-        "target_element_id": "wishlistBtn",
-        "target_xpath_before": "//button[@id='wishlistBtn']",
-        "before_text": "Add to Wishlist",
-        "after_text": "Add to Favorites",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "cartBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='cartBtn']",
-                "visible_text": "Add to Cart",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "checkoutBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='checkoutBtn']",
-                "visible_text": "Buy Now",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "removeBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='removeBtn']",
-                "visible_text": "Remove Item",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "trackBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='trackBtn']",
-                "visible_text": "Track Order",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "couponBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='couponBtn']",
-                "visible_text": "Apply Coupon",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "continueBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='continueBtn']",
-                "visible_text": "Continue Shopping",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "wishlistBtn",
-                "class_list": [
-                    "btn-info",
-                    "v2"
-                ],
-                "xpath": "//button[@id='wishlistBtn']",
-                "visible_text": "Add to Favorites",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "reviewBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='reviewBtn']",
-                "visible_text": "Write a Review",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_ecommerce_23",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_ecommerce_23']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "compareBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='compareBtn']",
-                "visible_text": "Compare",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "searchBox",
-                "class_list": [],
-                "xpath": "//input[@id='searchBox']",
-                "visible_text": "Search products",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "ecommerce_after_24",
-        "domain": "ecommerce",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Ecommerce/ecommerce_after_24.html",
         "target_element_id": "reviewBtn",
         "target_xpath_before": "//button[@id='reviewBtn']",
         "before_text": "Write a Review",
-        "after_text": "Leave a Review",
+        "after_text": "Writing a Review",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3342,7 +3200,17 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='reviewBtn']",
-                "visible_text": "Leave a Review",
+                "visible_text": "Writing a Review",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_ecommerce_23",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_ecommerce_23']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -3376,15 +3244,15 @@
         ]
     },
     {
-        "snapshot_id": "ecommerce_after_25",
+        "snapshot_id": "ecommerce_after_24",
         "domain": "ecommerce",
         "tier": "T1_English",
         "state": "after",
-        "source_file": "Tier1 English/Ecommerce/ecommerce_after_25.html",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_24.html",
         "target_element_id": "reviewBtn",
         "target_xpath_before": "//button[@id='reviewBtn']",
         "before_text": "Write a Review",
-        "after_text": "Add Review",
+        "after_text": "To Write a Review",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3469,9 +3337,12 @@
             {
                 "tag": "button",
                 "id": "reviewBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='reviewBtn']",
-                "visible_text": "Add Review",
+                "visible_text": "To Write a Review",
                 "bounding_box": null
             },
             {
@@ -3505,6 +3376,135 @@
         ]
     },
     {
+        "snapshot_id": "ecommerce_after_25",
+        "domain": "ecommerce",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Ecommerce/ecommerce_after_25.html",
+        "target_element_id": "compareBtn",
+        "target_xpath_before": "//button[@id='compareBtn']",
+        "before_text": "Compare",
+        "after_text": "Comparing",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cartBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='cartBtn']",
+                "visible_text": "Add to Cart",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "checkoutBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='checkoutBtn']",
+                "visible_text": "Buy Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "removeBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='removeBtn']",
+                "visible_text": "Remove Item",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "trackBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='trackBtn']",
+                "visible_text": "Track Order",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "couponBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='couponBtn']",
+                "visible_text": "Apply Coupon",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "continueBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='continueBtn']",
+                "visible_text": "Continue Shopping",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "wishlistBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='wishlistBtn']",
+                "visible_text": "Add to Wishlist",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "reviewBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='reviewBtn']",
+                "visible_text": "Write a Review",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "compareBtn",
+                "class_list": [],
+                "xpath": "//button[@id='compareBtn']",
+                "visible_text": "Comparing",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "searchBox",
+                "class_list": [],
+                "xpath": "//input[@id='searchBox']",
+                "visible_text": "Search products",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
         "snapshot_id": "ecommerce_after_26",
         "domain": "ecommerce",
         "tier": "T1_English",
@@ -3513,7 +3513,7 @@
         "target_element_id": "compareBtn",
         "target_xpath_before": "//button[@id='compareBtn']",
         "before_text": "Compare",
-        "after_text": "Add to Compare",
+        "after_text": "To Compare",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3613,7 +3613,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='compareBtn']",
-                "visible_text": "Add to Compare",
+                "visible_text": "To Compare",
                 "bounding_box": null
             },
             {
@@ -3645,7 +3645,7 @@
         "target_element_id": "compareBtn",
         "target_xpath_before": "//button[@id='compareBtn']",
         "before_text": "Compare",
-        "after_text": "Compare Items",
+        "after_text": "Compared",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3755,7 +3755,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='compareBtn']",
-                "visible_text": "Compare Items",
+                "visible_text": "Compared",
                 "bounding_box": null
             },
             {
@@ -3787,7 +3787,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Sign Out",
+        "after_text": "Logging Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -3904,7 +3904,7 @@
                 "id": "logoutBtn",
                 "class_list": [],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Sign Out",
+                "visible_text": "Logging Out",
                 "bounding_box": null
             },
             {
@@ -3926,7 +3926,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Logout",
+        "after_text": "To Log Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4035,7 +4035,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Logout",
+                "visible_text": "To Log Out",
                 "bounding_box": null
             },
             {
@@ -4057,7 +4057,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Exit Account",
+        "after_text": "Logged Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4177,7 +4177,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Exit Account",
+                "visible_text": "Logged Out",
                 "bounding_box": null
             },
             {
@@ -4326,7 +4326,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Log In",
+        "after_text": "Signing In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4336,7 +4336,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Log In",
+                "visible_text": "Signing In",
                 "bounding_box": null
             },
             {
@@ -4468,7 +4468,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Login",
+        "after_text": "To Sign In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4477,7 +4477,7 @@
                     "btn-secondary"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Login",
+                "visible_text": "To Sign In",
                 "bounding_box": null
             },
             {
@@ -4609,7 +4609,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Sign in to Account",
+        "after_text": "Signed In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4619,7 +4619,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign in to Account",
+                "visible_text": "Signed In",
                 "bounding_box": null
             },
             {
@@ -4741,7 +4741,7 @@
         "target_element_id": "bookBtn",
         "target_xpath_before": "//button[@id='bookBtn']",
         "before_text": "Book Appointment",
-        "after_text": "Book an Appointment",
+        "after_text": "Booking Appointment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4768,7 +4768,7 @@
                 "id": "bookBtn",
                 "class_list": [],
                 "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Book an Appointment",
+                "visible_text": "Booking Appointment",
                 "bounding_box": null
             },
             {
@@ -4880,7 +4880,7 @@
         "target_element_id": "bookBtn",
         "target_xpath_before": "//button[@id='bookBtn']",
         "before_text": "Book Appointment",
-        "after_text": "Make Appointment",
+        "after_text": "To Book Appointment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -4900,7 +4900,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Make Appointment",
+                "visible_text": "To Book Appointment",
                 "bounding_box": null
             },
             {
@@ -5012,7 +5012,7 @@
         "target_element_id": "bookBtn",
         "target_xpath_before": "//button[@id='bookBtn']",
         "before_text": "Book Appointment",
-        "after_text": "Schedule Appointment",
+        "after_text": "Booked Appointment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5032,7 +5032,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Schedule Appointment",
+                "visible_text": "Booked Appointment",
                 "bounding_box": null
             },
             {
@@ -5144,7 +5144,7 @@
         "target_element_id": "cancelBtn",
         "target_xpath_before": "//button[@id='cancelBtn']",
         "before_text": "Cancel",
-        "after_text": "Cancel Booking",
+        "after_text": "Cancelling",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5183,7 +5183,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Cancel Booking",
+                "visible_text": "Cancelling",
                 "bounding_box": null
             },
             {
@@ -5285,7 +5285,7 @@
         "target_element_id": "cancelBtn",
         "target_xpath_before": "//button[@id='cancelBtn']",
         "before_text": "Cancel",
-        "after_text": "Dismiss",
+        "after_text": "To Cancel",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5314,7 +5314,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Dismiss",
+                "visible_text": "To Cancel",
                 "bounding_box": null
             },
             {
@@ -5426,7 +5426,7 @@
         "target_element_id": "cancelBtn",
         "target_xpath_before": "//button[@id='cancelBtn']",
         "before_text": "Cancel",
-        "after_text": "Cancel Appointment",
+        "after_text": "Cancelled",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5466,7 +5466,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Cancel Appointment",
+                "visible_text": "Cancelled",
                 "bounding_box": null
             },
             {
@@ -5568,7 +5568,7 @@
         "target_element_id": "symptomsBtn",
         "target_xpath_before": "//button[@id='symptomsBtn']",
         "before_text": "Submit Symptoms",
-        "after_text": "Report Symptoms",
+        "after_text": "Submitting Symptoms",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5608,7 +5608,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Report Symptoms",
+                "visible_text": "Submitting Symptoms",
                 "bounding_box": null
             },
             {
@@ -5710,7 +5710,7 @@
         "target_element_id": "symptomsBtn",
         "target_xpath_before": "//button[@id='symptomsBtn']",
         "before_text": "Submit Symptoms",
-        "after_text": "Send Symptoms",
+        "after_text": "To Submit Symptoms",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5750,7 +5750,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Send Symptoms",
+                "visible_text": "To Submit Symptoms",
                 "bounding_box": null
             },
             {
@@ -5852,7 +5852,7 @@
         "target_element_id": "symptomsBtn",
         "target_xpath_before": "//button[@id='symptomsBtn']",
         "before_text": "Submit Symptoms",
-        "after_text": "Describe Symptoms",
+        "after_text": "Symptoms Submitted",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -5899,7 +5899,7 @@
                 "id": "symptomsBtn",
                 "class_list": [],
                 "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Describe Symptoms",
+                "visible_text": "Symptoms Submitted",
                 "bounding_box": null
             },
             {
@@ -5991,7 +5991,7 @@
         "target_element_id": "reportsBtn",
         "target_xpath_before": "//button[@id='reportsBtn']",
         "before_text": "View Reports",
-        "after_text": "Check Reports",
+        "after_text": "Viewing Reports",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -6040,7 +6040,7 @@
                     "btn-secondary"
                 ],
                 "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "Check Reports",
+                "visible_text": "Viewing Reports",
                 "bounding_box": null
             },
             {
@@ -6122,7 +6122,7 @@
         "target_element_id": "reportsBtn",
         "target_xpath_before": "//button[@id='reportsBtn']",
         "before_text": "View Reports",
-        "after_text": "See Medical Reports",
+        "after_text": "To View Reports",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -6172,7 +6172,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "See Medical Reports",
+                "visible_text": "To View Reports",
                 "bounding_box": null
             },
             {
@@ -6254,7 +6254,7 @@
         "target_element_id": "reportsBtn",
         "target_xpath_before": "//button[@id='reportsBtn']",
         "before_text": "View Reports",
-        "after_text": "View Test Results",
+        "after_text": "Reports Viewed",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -6301,7 +6301,7 @@
                 "id": "reportsBtn",
                 "class_list": [],
                 "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "View Test Results",
+                "visible_text": "Reports Viewed",
                 "bounding_box": null
             },
             {
@@ -6383,7 +6383,7 @@
         "target_element_id": "supportBtn",
         "target_xpath_before": "//button[@id='supportBtn']",
         "before_text": "Contact Support",
-        "after_text": "Get Help",
+        "after_text": "Contacting Support",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -6443,7 +6443,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='supportBtn']",
-                "visible_text": "Get Help",
+                "visible_text": "Contacting Support",
                 "bounding_box": null
             },
             {
@@ -6515,7 +6515,7 @@
         "target_element_id": "supportBtn",
         "target_xpath_before": "//button[@id='supportBtn']",
         "before_text": "Contact Support",
-        "after_text": "Reach Support Team",
+        "after_text": "To Contact Support",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -6575,7 +6575,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='supportBtn']",
-                "visible_text": "Reach Support Team",
+                "visible_text": "To Contact Support",
                 "bounding_box": null
             },
             {
@@ -6654,400 +6654,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Healthcare/healthcare_after_18.html",
-        "target_element_id": "supportBtn",
-        "target_xpath_before": "//button[@id='supportBtn']",
-        "before_text": "Contact Support",
-        "after_text": "Contact Help Desk",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Book Appointment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "cancelBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Cancel",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "symptomsBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Submit Symptoms",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "reportsBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "View Reports",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "supportBtn",
-                "class_list": [
-                    "btn-warning",
-                    "v2"
-                ],
-                "xpath": "//button[@id='supportBtn']",
-                "visible_text": "Contact Help Desk",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "payBillBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='payBillBtn']",
-                "visible_text": "Pay Bill",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "prescriptionBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='prescriptionBtn']",
-                "visible_text": "View Prescription",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "rescheduleBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Reschedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "feedbackBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='feedbackBtn']",
-                "visible_text": "Give Feedback",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "doctorSearch",
-                "class_list": [],
-                "xpath": "//input[@id='doctorSearch']",
-                "visible_text": "Doctor name",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "healthcare_after_19",
-        "domain": "healthcare",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Healthcare/healthcare_after_19.html",
         "target_element_id": "payBillBtn",
         "target_xpath_before": "//button[@id='payBillBtn']",
         "before_text": "Pay Bill",
-        "after_text": "Make Payment",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Book Appointment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "cancelBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Cancel",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "symptomsBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Submit Symptoms",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "reportsBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "View Reports",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "supportBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='supportBtn']",
-                "visible_text": "Contact Support",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "payBillBtn",
-                "class_list": [],
-                "xpath": "//button[@id='payBillBtn']",
-                "visible_text": "Make Payment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "prescriptionBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='prescriptionBtn']",
-                "visible_text": "View Prescription",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "rescheduleBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Reschedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "feedbackBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='feedbackBtn']",
-                "visible_text": "Give Feedback",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "doctorSearch",
-                "class_list": [],
-                "xpath": "//input[@id='doctorSearch']",
-                "visible_text": "Doctor name",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "healthcare_after_20",
-        "domain": "healthcare",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Healthcare/healthcare_after_20.html",
-        "target_element_id": "payBillBtn",
-        "target_xpath_before": "//button[@id='payBillBtn']",
-        "before_text": "Pay Bill",
-        "after_text": "Pay Invoice",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "bookBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='bookBtn']",
-                "visible_text": "Book Appointment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "cancelBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='cancelBtn']",
-                "visible_text": "Cancel",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "symptomsBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='symptomsBtn']",
-                "visible_text": "Submit Symptoms",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "reportsBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='reportsBtn']",
-                "visible_text": "View Reports",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "supportBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='supportBtn']",
-                "visible_text": "Contact Support",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "payBillBtn",
-                "class_list": [],
-                "xpath": "//button[@id='payBillBtn']",
-                "visible_text": "Pay Invoice",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "prescriptionBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='prescriptionBtn']",
-                "visible_text": "View Prescription",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "rescheduleBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Reschedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "feedbackBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='feedbackBtn']",
-                "visible_text": "Give Feedback",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "doctorSearch",
-                "class_list": [],
-                "xpath": "//input[@id='doctorSearch']",
-                "visible_text": "Doctor name",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "healthcare_after_21",
-        "domain": "healthcare",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Healthcare/healthcare_after_21.html",
-        "target_element_id": "payBillBtn",
-        "target_xpath_before": "//button[@id='payBillBtn']",
-        "before_text": "Pay Bill",
-        "after_text": "Settle Bill",
+        "after_text": "Paying Bill",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7117,7 +6727,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='payBillBtn']",
-                "visible_text": "Settle Bill",
+                "visible_text": "Paying Bill",
                 "bounding_box": null
             },
             {
@@ -7171,6 +6781,396 @@
         ]
     },
     {
+        "snapshot_id": "healthcare_after_19",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_19.html",
+        "target_element_id": "payBillBtn",
+        "target_xpath_before": "//button[@id='payBillBtn']",
+        "before_text": "Pay Bill",
+        "after_text": "To Pay Bill",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "symptomsBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='symptomsBtn']",
+                "visible_text": "Submit Symptoms",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "reportsBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='reportsBtn']",
+                "visible_text": "View Reports",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "supportBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='supportBtn']",
+                "visible_text": "Contact Support",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "payBillBtn",
+                "class_list": [],
+                "xpath": "//button[@id='payBillBtn']",
+                "visible_text": "To Pay Bill",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "prescriptionBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='prescriptionBtn']",
+                "visible_text": "View Prescription",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "rescheduleBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='rescheduleBtn']",
+                "visible_text": "Reschedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "feedbackBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='feedbackBtn']",
+                "visible_text": "Give Feedback",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_20",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_20.html",
+        "target_element_id": "payBillBtn",
+        "target_xpath_before": "//button[@id='payBillBtn']",
+        "before_text": "Pay Bill",
+        "after_text": "Bill Paid",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "symptomsBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='symptomsBtn']",
+                "visible_text": "Submit Symptoms",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "reportsBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='reportsBtn']",
+                "visible_text": "View Reports",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "supportBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='supportBtn']",
+                "visible_text": "Contact Support",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "payBillBtn",
+                "class_list": [],
+                "xpath": "//button[@id='payBillBtn']",
+                "visible_text": "Bill Paid",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "prescriptionBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='prescriptionBtn']",
+                "visible_text": "View Prescription",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "rescheduleBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='rescheduleBtn']",
+                "visible_text": "Reschedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "feedbackBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='feedbackBtn']",
+                "visible_text": "Give Feedback",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "healthcare_after_21",
+        "domain": "healthcare",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Healthcare/healthcare_after_21.html",
+        "target_element_id": "prescriptionBtn",
+        "target_xpath_before": "//button[@id='prescriptionBtn']",
+        "before_text": "View Prescription",
+        "after_text": "Viewing Prescription",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "bookBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='bookBtn']",
+                "visible_text": "Book Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "cancelBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='cancelBtn']",
+                "visible_text": "Cancel",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "symptomsBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='symptomsBtn']",
+                "visible_text": "Submit Symptoms",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "reportsBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='reportsBtn']",
+                "visible_text": "View Reports",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "supportBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='supportBtn']",
+                "visible_text": "Contact Support",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "payBillBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='payBillBtn']",
+                "visible_text": "Pay Bill",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "prescriptionBtn",
+                "class_list": [
+                    "btn-info",
+                    "v2"
+                ],
+                "xpath": "//button[@id='prescriptionBtn']",
+                "visible_text": "Viewing Prescription",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "rescheduleBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='rescheduleBtn']",
+                "visible_text": "Reschedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "feedbackBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='feedbackBtn']",
+                "visible_text": "Give Feedback",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "doctorSearch",
+                "class_list": [],
+                "xpath": "//input[@id='doctorSearch']",
+                "visible_text": "Doctor name",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
         "snapshot_id": "healthcare_after_22",
         "domain": "healthcare",
         "tier": "T1_English",
@@ -7179,7 +7179,7 @@
         "target_element_id": "prescriptionBtn",
         "target_xpath_before": "//button[@id='prescriptionBtn']",
         "before_text": "View Prescription",
-        "after_text": "See Prescription",
+        "after_text": "To View Prescription",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7258,7 +7258,7 @@
                     "btn-info"
                 ],
                 "xpath": "//button[@id='prescriptionBtn']",
-                "visible_text": "See Prescription",
+                "visible_text": "To View Prescription",
                 "bounding_box": null
             },
             {
@@ -7307,10 +7307,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Healthcare/healthcare_after_23.html",
-        "target_element_id": "prescriptionBtn",
-        "target_xpath_before": "//button[@id='prescriptionBtn']",
-        "before_text": "View Prescription",
-        "after_text": "Check Medication List",
+        "target_element_id": "rescheduleBtn",
+        "target_xpath_before": "//button[@id='rescheduleBtn']",
+        "before_text": "Reschedule",
+        "after_text": "Rescheduling",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7396,21 +7396,21 @@
                 "tag": "button",
                 "id": "prescriptionBtn",
                 "class_list": [
-                    "btn-info",
-                    "v2"
+                    "btn-info"
                 ],
                 "xpath": "//button[@id='prescriptionBtn']",
-                "visible_text": "Check Medication List",
+                "visible_text": "View Prescription",
                 "bounding_box": null
             },
             {
                 "tag": "button",
                 "id": "rescheduleBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Reschedule",
+                "visible_text": "Rescheduling",
                 "bounding_box": null
             },
             {
@@ -7452,7 +7452,7 @@
         "target_element_id": "rescheduleBtn",
         "target_xpath_before": "//button[@id='rescheduleBtn']",
         "before_text": "Reschedule",
-        "after_text": "Change Appointment Time",
+        "after_text": "To Reschedule",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7539,7 +7539,7 @@
                 "id": "rescheduleBtn",
                 "class_list": [],
                 "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Change Appointment Time",
+                "visible_text": "To Reschedule",
                 "bounding_box": null
             },
             {
@@ -7581,7 +7581,7 @@
         "target_element_id": "rescheduleBtn",
         "target_xpath_before": "//button[@id='rescheduleBtn']",
         "before_text": "Reschedule",
-        "after_text": "Reschedule Booking",
+        "after_text": "Rescheduled",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7678,7 +7678,7 @@
                 "id": "rescheduleBtn",
                 "class_list": [],
                 "xpath": "//button[@id='rescheduleBtn']",
-                "visible_text": "Reschedule Booking",
+                "visible_text": "Rescheduled",
                 "bounding_box": null
             },
             {
@@ -7720,7 +7720,7 @@
         "target_element_id": "feedbackBtn",
         "target_xpath_before": "//button[@id='feedbackBtn']",
         "before_text": "Give Feedback",
-        "after_text": "Submit Feedback",
+        "after_text": "Giving Feedback",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7830,7 +7830,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='feedbackBtn']",
-                "visible_text": "Submit Feedback",
+                "visible_text": "Giving Feedback",
                 "bounding_box": null
             },
             {
@@ -7862,7 +7862,7 @@
         "target_element_id": "feedbackBtn",
         "target_xpath_before": "//button[@id='feedbackBtn']",
         "before_text": "Give Feedback",
-        "after_text": "Share Your Feedback",
+        "after_text": "To Give Feedback",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -7961,7 +7961,7 @@
                     "btn-warning"
                 ],
                 "xpath": "//button[@id='feedbackBtn']",
-                "visible_text": "Share Your Feedback",
+                "visible_text": "To Give Feedback",
                 "bounding_box": null
             },
             {
@@ -7993,7 +7993,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Sign Out",
+        "after_text": "Logging Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8113,7 +8113,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Sign Out",
+                "visible_text": "Logging Out",
                 "bounding_box": null
             },
             {
@@ -8135,7 +8135,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Logout",
+        "after_text": "To Log Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8254,7 +8254,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Logout",
+                "visible_text": "To Log Out",
                 "bounding_box": null
             },
             {
@@ -8276,7 +8276,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Exit Account",
+        "after_text": "Logged Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8385,7 +8385,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Exit Account",
+                "visible_text": "Logged Out",
                 "bounding_box": null
             },
             {
@@ -8534,14 +8534,14 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Log In",
+        "after_text": "Signing In",
         "interactable_elements": [
             {
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Log In",
+                "visible_text": "Signing In",
                 "bounding_box": null
             },
             {
@@ -8673,7 +8673,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Login",
+        "after_text": "To Sign In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8683,7 +8683,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Login",
+                "visible_text": "To Sign In",
                 "bounding_box": null
             },
             {
@@ -8805,7 +8805,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Sign in to Account",
+        "after_text": "Signed In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8815,7 +8815,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign in to Account",
+                "visible_text": "Signed In",
                 "bounding_box": null
             },
             {
@@ -8937,7 +8937,7 @@
         "target_element_id": "submitBtn",
         "target_xpath_before": "//button[@id='submitBtn']",
         "before_text": "Apply",
-        "after_text": "Apply Now",
+        "after_text": "Applying",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -8957,7 +8957,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='submitBtn']",
-                "visible_text": "Apply Now",
+                "visible_text": "Applying",
                 "bounding_box": null
             },
             {
@@ -9079,7 +9079,7 @@
         "target_element_id": "submitBtn",
         "target_xpath_before": "//button[@id='submitBtn']",
         "before_text": "Apply",
-        "after_text": "Submit Application",
+        "after_text": "To Apply",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9096,7 +9096,7 @@
                 "id": "submitBtn",
                 "class_list": [],
                 "xpath": "//button[@id='submitBtn']",
-                "visible_text": "Submit Application",
+                "visible_text": "To Apply",
                 "bounding_box": null
             },
             {
@@ -9208,7 +9208,7 @@
         "target_element_id": "submitBtn",
         "target_xpath_before": "//button[@id='submitBtn']",
         "before_text": "Apply",
-        "after_text": "Start Application",
+        "after_text": "Applied",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9225,7 +9225,7 @@
                 "id": "submitBtn",
                 "class_list": [],
                 "xpath": "//button[@id='submitBtn']",
-                "visible_text": "Start Application",
+                "visible_text": "Applied",
                 "bounding_box": null
             },
             {
@@ -9347,7 +9347,7 @@
         "target_element_id": "downloadBtn",
         "target_xpath_before": "//button[@id='downloadBtn']",
         "before_text": "Download Document",
-        "after_text": "Download",
+        "after_text": "Downloading Document",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9374,7 +9374,7 @@
                 "id": "downloadBtn",
                 "class_list": [],
                 "xpath": "//button[@id='downloadBtn']",
-                "visible_text": "Download",
+                "visible_text": "Downloading Document",
                 "bounding_box": null
             },
             {
@@ -9486,7 +9486,7 @@
         "target_element_id": "downloadBtn",
         "target_xpath_before": "//button[@id='downloadBtn']",
         "before_text": "Download Document",
-        "after_text": "Download File",
+        "after_text": "To Download Document",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9526,7 +9526,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='downloadBtn']",
-                "visible_text": "Download File",
+                "visible_text": "To Download Document",
                 "bounding_box": null
             },
             {
@@ -9628,7 +9628,7 @@
         "target_element_id": "downloadBtn",
         "target_xpath_before": "//button[@id='downloadBtn']",
         "before_text": "Download Document",
-        "after_text": "Get Document",
+        "after_text": "Document Downloaded",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9658,7 +9658,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='downloadBtn']",
-                "visible_text": "Get Document",
+                "visible_text": "Document Downloaded",
                 "bounding_box": null
             },
             {
@@ -9760,7 +9760,7 @@
         "target_element_id": "statusBtn",
         "target_xpath_before": "//button[@id='statusBtn']",
         "before_text": "Check Status",
-        "after_text": "View Status",
+        "after_text": "Checking Status",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9810,7 +9810,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='statusBtn']",
-                "visible_text": "View Status",
+                "visible_text": "Checking Status",
                 "bounding_box": null
             },
             {
@@ -9902,7 +9902,7 @@
         "target_element_id": "statusBtn",
         "target_xpath_before": "//button[@id='statusBtn']",
         "before_text": "Check Status",
-        "after_text": "Track Status",
+        "after_text": "To Check Status",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -9949,7 +9949,7 @@
                 "id": "statusBtn",
                 "class_list": [],
                 "xpath": "//button[@id='statusBtn']",
-                "visible_text": "Track Status",
+                "visible_text": "To Check Status",
                 "bounding_box": null
             },
             {
@@ -10041,7 +10041,7 @@
         "target_element_id": "statusBtn",
         "target_xpath_before": "//button[@id='statusBtn']",
         "before_text": "Check Status",
-        "after_text": "Check Application Status",
+        "after_text": "Status Checked",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10080,7 +10080,7 @@
                     "btn-secondary"
                 ],
                 "xpath": "//button[@id='statusBtn']",
-                "visible_text": "Check Application Status",
+                "visible_text": "Status Checked",
                 "bounding_box": null
             },
             {
@@ -10172,7 +10172,7 @@
         "target_element_id": "renewBtn",
         "target_xpath_before": "//button[@id='renewBtn']",
         "before_text": "Renew License",
-        "after_text": "Renew",
+        "after_text": "Renewing License",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10222,7 +10222,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='renewBtn']",
-                "visible_text": "Renew",
+                "visible_text": "Renewing License",
                 "bounding_box": null
             },
             {
@@ -10314,7 +10314,7 @@
         "target_element_id": "renewBtn",
         "target_xpath_before": "//button[@id='renewBtn']",
         "before_text": "Renew License",
-        "after_text": "Update License",
+        "after_text": "To Renew License",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10364,7 +10364,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='renewBtn']",
-                "visible_text": "Update License",
+                "visible_text": "To Renew License",
                 "bounding_box": null
             },
             {
@@ -10446,7 +10446,7 @@
         "target_element_id": "renewBtn",
         "target_xpath_before": "//button[@id='renewBtn']",
         "before_text": "Renew License",
-        "after_text": "Apply for Renewal",
+        "after_text": "License Renewed",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10493,7 +10493,7 @@
                 "id": "renewBtn",
                 "class_list": [],
                 "xpath": "//button[@id='renewBtn']",
-                "visible_text": "Apply for Renewal",
+                "visible_text": "License Renewed",
                 "bounding_box": null
             },
             {
@@ -10575,7 +10575,7 @@
         "target_element_id": "fineBtn",
         "target_xpath_before": "//button[@id='fineBtn']",
         "before_text": "Pay Fine",
-        "after_text": "Pay Penalty",
+        "after_text": "Paying Fine",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10632,7 +10632,7 @@
                 "id": "fineBtn",
                 "class_list": [],
                 "xpath": "//button[@id='fineBtn']",
-                "visible_text": "Pay Penalty",
+                "visible_text": "Paying Fine",
                 "bounding_box": null
             },
             {
@@ -10714,7 +10714,7 @@
         "target_element_id": "fineBtn",
         "target_xpath_before": "//button[@id='fineBtn']",
         "before_text": "Pay Fine",
-        "after_text": "Make Payment",
+        "after_text": "To Pay Fine",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10783,7 +10783,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='fineBtn']",
-                "visible_text": "Make Payment",
+                "visible_text": "To Pay Fine",
                 "bounding_box": null
             },
             {
@@ -10855,7 +10855,7 @@
         "target_element_id": "fineBtn",
         "target_xpath_before": "//button[@id='fineBtn']",
         "before_text": "Pay Fine",
-        "after_text": "Settle Fine",
+        "after_text": "Fine Paid",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -10922,7 +10922,7 @@
                 "id": "fineBtn",
                 "class_list": [],
                 "xpath": "//button[@id='fineBtn']",
-                "visible_text": "Settle Fine",
+                "visible_text": "Fine Paid",
                 "bounding_box": null
             },
             {
@@ -10994,7 +10994,7 @@
         "target_element_id": "contactBtn",
         "target_xpath_before": "//button[@id='contactBtn']",
         "before_text": "Contact Us",
-        "after_text": "Send Inquiry",
+        "after_text": "Contacting Us",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11064,7 +11064,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='contactBtn']",
-                "visible_text": "Send Inquiry",
+                "visible_text": "Contacting Us",
                 "bounding_box": null
             },
             {
@@ -11126,7 +11126,7 @@
         "target_element_id": "contactBtn",
         "target_xpath_before": "//button[@id='contactBtn']",
         "before_text": "Contact Us",
-        "after_text": "Get in Touch",
+        "after_text": "To Contact Us",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11193,7 +11193,7 @@
                 "id": "contactBtn",
                 "class_list": [],
                 "xpath": "//button[@id='contactBtn']",
-                "visible_text": "Get in Touch",
+                "visible_text": "To Contact Us",
                 "bounding_box": null
             },
             {
@@ -11252,10 +11252,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Government/government_after_21.html",
-        "target_element_id": "contactBtn",
-        "target_xpath_before": "//button[@id='contactBtn']",
-        "before_text": "Contact Us",
-        "after_text": "Reach Out",
+        "target_element_id": "uploadBtn",
+        "target_xpath_before": "//button[@id='uploadBtn']",
+        "before_text": "Upload Documents",
+        "after_text": "Uploading Documents",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11331,21 +11331,21 @@
                 "tag": "button",
                 "id": "contactBtn",
                 "class_list": [
-                    "btn-secondary",
-                    "v2"
+                    "btn-secondary"
                 ],
                 "xpath": "//button[@id='contactBtn']",
-                "visible_text": "Reach Out",
+                "visible_text": "Contact Us",
                 "bounding_box": null
             },
             {
                 "tag": "button",
                 "id": "uploadBtn",
                 "class_list": [
-                    "btn-info"
+                    "btn-info",
+                    "v2"
                 ],
                 "xpath": "//button[@id='uploadBtn']",
-                "visible_text": "Upload Documents",
+                "visible_text": "Uploading Documents",
                 "bounding_box": null
             },
             {
@@ -11397,7 +11397,7 @@
         "target_element_id": "uploadBtn",
         "target_xpath_before": "//button[@id='uploadBtn']",
         "before_text": "Upload Documents",
-        "after_text": "Attach Files",
+        "after_text": "To Upload Documents",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11486,7 +11486,7 @@
                     "btn-info"
                 ],
                 "xpath": "//button[@id='uploadBtn']",
-                "visible_text": "Attach Files",
+                "visible_text": "To Upload Documents",
                 "bounding_box": null
             },
             {
@@ -11538,7 +11538,7 @@
         "target_element_id": "uploadBtn",
         "target_xpath_before": "//button[@id='uploadBtn']",
         "before_text": "Upload Documents",
-        "after_text": "Upload Files",
+        "after_text": "Documents Uploaded",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11628,7 +11628,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='uploadBtn']",
-                "visible_text": "Upload Files",
+                "visible_text": "Documents Uploaded",
                 "bounding_box": null
             },
             {
@@ -11680,7 +11680,7 @@
         "target_element_id": "appointmentBtn",
         "target_xpath_before": "//button[@id='appointmentBtn']",
         "before_text": "Reserve Appointment",
-        "after_text": "Book a Slot",
+        "after_text": "Reserving Appointment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11780,7 +11780,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='appointmentBtn']",
-                "visible_text": "Book a Slot",
+                "visible_text": "Reserving Appointment",
                 "bounding_box": null
             },
             {
@@ -11822,7 +11822,7 @@
         "target_element_id": "appointmentBtn",
         "target_xpath_before": "//button[@id='appointmentBtn']",
         "before_text": "Reserve Appointment",
-        "after_text": "Schedule a Visit",
+        "after_text": "To Reserve Appointment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -11912,7 +11912,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='appointmentBtn']",
-                "visible_text": "Schedule a Visit",
+                "visible_text": "To Reserve Appointment",
                 "bounding_box": null
             },
             {
@@ -11954,7 +11954,7 @@
         "target_element_id": "complaintBtn",
         "target_xpath_before": "//button[@id='complaintBtn']",
         "before_text": "Submit Complaint",
-        "after_text": "File a Complaint",
+        "after_text": "Submitting Complaint",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12061,7 +12061,7 @@
                 "id": "complaintBtn",
                 "class_list": [],
                 "xpath": "//button[@id='complaintBtn']",
-                "visible_text": "File a Complaint",
+                "visible_text": "Submitting Complaint",
                 "bounding_box": null
             },
             {
@@ -12093,7 +12093,7 @@
         "target_element_id": "complaintBtn",
         "target_xpath_before": "//button[@id='complaintBtn']",
         "before_text": "Submit Complaint",
-        "after_text": "Send Complaint",
+        "after_text": "To Submit Complaint",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12192,7 +12192,7 @@
                     "btn-warning"
                 ],
                 "xpath": "//button[@id='complaintBtn']",
-                "visible_text": "Send Complaint",
+                "visible_text": "To Submit Complaint",
                 "bounding_box": null
             },
             {
@@ -12221,10 +12221,10 @@
         "tier": "T1_English",
         "state": "after",
         "source_file": "Tier1 English/Government/government_after_28.html",
-        "target_element_id": "logoutBtn",
-        "target_xpath_before": "//button[@id='logoutBtn']",
-        "before_text": "Log Out",
-        "after_text": "Sign Out",
+        "target_element_id": "complaintBtn",
+        "target_xpath_before": "//button[@id='complaintBtn']",
+        "before_text": "Submit Complaint",
+        "after_text": "Complaint Submitted",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12323,7 +12323,7 @@
                     "btn-warning"
                 ],
                 "xpath": "//button[@id='complaintBtn']",
-                "visible_text": "Submit Complaint",
+                "visible_text": "Complaint Submitted",
                 "bounding_box": null
             },
             {
@@ -12333,7 +12333,7 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Sign Out",
+                "visible_text": "Log Out",
                 "bounding_box": null
             },
             {
@@ -12355,7 +12355,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Logout",
+        "after_text": "Logging Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12475,7 +12475,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Logout",
+                "visible_text": "Logging Out",
                 "bounding_box": null
             },
             {
@@ -12497,7 +12497,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Exit Account",
+        "after_text": "To Log Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12606,7 +12606,149 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Exit Account",
+                "visible_text": "To Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "nicInput",
+                "class_list": [],
+                "xpath": "//input[@id='nicInput']",
+                "visible_text": "National ID Number",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "government_after_31",
+        "domain": "government",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Government/government_after_31.html",
+        "target_element_id": "logoutBtn",
+        "target_xpath_before": "//button[@id='logoutBtn']",
+        "before_text": "Log Out",
+        "after_text": "Logged Out",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='submitBtn']",
+                "visible_text": "Apply",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "downloadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='downloadBtn']",
+                "visible_text": "Download Document",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "statusBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='statusBtn']",
+                "visible_text": "Check Status",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "renewBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='renewBtn']",
+                "visible_text": "Renew License",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_government_31",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_government_31']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "fineBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='fineBtn']",
+                "visible_text": "Pay Fine",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "contactBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='contactBtn']",
+                "visible_text": "Contact Us",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "uploadBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='uploadBtn']",
+                "visible_text": "Upload Documents",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "appointmentBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='appointmentBtn']",
+                "visible_text": "Reserve Appointment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "complaintBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='complaintBtn']",
+                "visible_text": "Submit Complaint",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger",
+                    "v2"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Logged Out",
                 "bounding_box": null
             },
             {
@@ -12755,7 +12897,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Log In",
+        "after_text": "Signing In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12765,7 +12907,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Log In",
+                "visible_text": "Signing In",
                 "bounding_box": null
             },
             {
@@ -12806,16 +12948,6 @@
                 ],
                 "xpath": "//button[@id='quizBtn']",
                 "visible_text": "Start Quiz",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_education_1",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_1']",
-                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -12897,7 +13029,7 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Login",
+        "after_text": "To Sign In",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -12907,7 +13039,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Login",
+                "visible_text": "To Sign In",
                 "bounding_box": null
             },
             {
@@ -12998,6 +13130,16 @@
                 ],
                 "xpath": "//button[@id='scheduleBtn']",
                 "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_2",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_2']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -13029,17 +13171,16 @@
         "target_element_id": "loginBtn",
         "target_xpath_before": "//button[@id='loginBtn']",
         "before_text": "Sign In",
-        "after_text": "Sign in to Account",
+        "after_text": "Signed In",
         "interactable_elements": [
             {
                 "tag": "button",
                 "id": "loginBtn",
                 "class_list": [
-                    "btn-secondary",
-                    "v2"
+                    "btn-secondary"
                 ],
                 "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign in to Account",
+                "visible_text": "Signed In",
                 "bounding_box": null
             },
             {
@@ -13134,16 +13275,6 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_3",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_3']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "logoutBtn",
                 "class_list": [
                     "btn-danger"
@@ -13171,7 +13302,7 @@
         "target_element_id": "startBtn",
         "target_xpath_before": "//button[@id='startBtn']",
         "before_text": "Start Lesson",
-        "after_text": "Start the Lesson",
+        "after_text": "Starting Lesson",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13186,11 +13317,9 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='startBtn']",
-                "visible_text": "Start the Lesson",
+                "visible_text": "Starting Lesson",
                 "bounding_box": null
             },
             {
@@ -13201,6 +13330,16 @@
                 ],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_4",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_4']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -13302,7 +13441,7 @@
         "target_element_id": "startBtn",
         "target_xpath_before": "//button[@id='startBtn']",
         "before_text": "Start Lesson",
-        "after_text": "Begin Lesson",
+        "after_text": "To Start Lesson",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13317,9 +13456,12 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-primary",
+                    "v2"
+                ],
                 "xpath": "//button[@id='startBtn']",
-                "visible_text": "Begin Lesson",
+                "visible_text": "To Start Lesson",
                 "bounding_box": null
             },
             {
@@ -13330,16 +13472,6 @@
                 ],
                 "xpath": "//button[@id='submitAssignBtn']",
                 "visible_text": "Submit Assignment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_education_5",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_5']",
-                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -13410,6 +13542,16 @@
                 ],
                 "xpath": "//button[@id='scheduleBtn']",
                 "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_5",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_5']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -13441,7 +13583,7 @@
         "target_element_id": "startBtn",
         "target_xpath_before": "//button[@id='startBtn']",
         "before_text": "Start Lesson",
-        "after_text": "Begin the Class",
+        "after_text": "Lesson Started",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13456,12 +13598,9 @@
             {
                 "tag": "button",
                 "id": "startBtn",
-                "class_list": [
-                    "btn-primary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='startBtn']",
-                "visible_text": "Begin the Class",
+                "visible_text": "Lesson Started",
                 "bounding_box": null
             },
             {
@@ -13546,16 +13685,6 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_6",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_6']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "logoutBtn",
                 "class_list": [
                     "btn-danger"
@@ -13583,7 +13712,7 @@
         "target_element_id": "submitAssignBtn",
         "target_xpath_before": "//button[@id='submitAssignBtn']",
         "before_text": "Submit Assignment",
-        "after_text": "Submit",
+        "after_text": "Submitting Assignment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13608,9 +13737,12 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-success",
+                    "v2"
+                ],
                 "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Submit",
+                "visible_text": "Submitting Assignment",
                 "bounding_box": null
             },
             {
@@ -13712,7 +13844,7 @@
         "target_element_id": "submitAssignBtn",
         "target_xpath_before": "//button[@id='submitAssignBtn']",
         "before_text": "Submit Assignment",
-        "after_text": "Upload Assignment",
+        "after_text": "To Submit Assignment",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13737,12 +13869,9 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Upload Assignment",
+                "visible_text": "To Submit Assignment",
                 "bounding_box": null
             },
             {
@@ -13844,7 +13973,7 @@
         "target_element_id": "submitAssignBtn",
         "target_xpath_before": "//button[@id='submitAssignBtn']",
         "before_text": "Submit Assignment",
-        "after_text": "Turn In Assignment",
+        "after_text": "Assignment Submitted",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -13869,9 +13998,12 @@
             {
                 "tag": "button",
                 "id": "submitAssignBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-success",
+                    "v2"
+                ],
                 "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Turn In Assignment",
+                "visible_text": "Assignment Submitted",
                 "bounding_box": null
             },
             {
@@ -13973,7 +14105,7 @@
         "target_element_id": "enrollBtn",
         "target_xpath_before": "//button[@id='enrollBtn']",
         "before_text": "Enroll Now",
-        "after_text": "Enroll",
+        "after_text": "Enrolling Now",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14013,7 +14145,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Enroll",
+                "visible_text": "Enrolling Now",
                 "bounding_box": null
             },
             {
@@ -14054,6 +14186,16 @@
                 ],
                 "xpath": "//button[@id='certificateBtn']",
                 "visible_text": "Download Certificate",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_10",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_10']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -14105,7 +14247,7 @@
         "target_element_id": "enrollBtn",
         "target_xpath_before": "//button[@id='enrollBtn']",
         "before_text": "Enroll Now",
-        "after_text": "Register for Course",
+        "after_text": "To Enroll Now",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14145,7 +14287,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Register for Course",
+                "visible_text": "To Enroll Now",
                 "bounding_box": null
             },
             {
@@ -14186,16 +14328,6 @@
                 ],
                 "xpath": "//button[@id='certificateBtn']",
                 "visible_text": "Download Certificate",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_education_11",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_11']",
-                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -14247,7 +14379,7 @@
         "target_element_id": "enrollBtn",
         "target_xpath_before": "//button[@id='enrollBtn']",
         "before_text": "Enroll Now",
-        "after_text": "Sign Up for Course",
+        "after_text": "Enrolled",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14287,7 +14419,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Sign Up for Course",
+                "visible_text": "Enrolled",
                 "bounding_box": null
             },
             {
@@ -14379,7 +14511,7 @@
         "target_element_id": "quizBtn",
         "target_xpath_before": "//button[@id='quizBtn']",
         "before_text": "Start Quiz",
-        "after_text": "Begin Quiz",
+        "after_text": "Starting Quiz",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14424,12 +14556,9 @@
             {
                 "tag": "button",
                 "id": "quizBtn",
-                "class_list": [
-                    "btn-warning",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Begin Quiz",
+                "visible_text": "Starting Quiz",
                 "bounding_box": null
             },
             {
@@ -14511,136 +14640,7 @@
         "target_element_id": "quizBtn",
         "target_xpath_before": "//button[@id='quizBtn']",
         "before_text": "Start Quiz",
-        "after_text": "Take the Quiz",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='startBtn']",
-                "visible_text": "Start Lesson",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Submit Assignment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "enrollBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Enroll Now",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "quizBtn",
-                "class_list": [],
-                "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Take the Quiz",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "gradesBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "View Grades",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "materialBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Download Material",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "certificateBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Download Certificate",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "discussBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Join Discussion",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "scheduleBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "View Schedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "courseInput",
-                "class_list": [],
-                "xpath": "//input[@id='courseInput']",
-                "visible_text": "Course",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "education_after_15",
-        "domain": "education",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Education/education_after_15.html",
-        "target_element_id": "quizBtn",
-        "target_xpath_before": "//button[@id='quizBtn']",
-        "before_text": "Start Quiz",
-        "after_text": "Start the Test",
+        "after_text": "To Start Quiz",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14690,7 +14690,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Start the Test",
+                "visible_text": "To Start Quiz",
                 "bounding_box": null
             },
             {
@@ -14735,12 +14735,141 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_15",
+                "id": "decoy_education_14",
                 "class_list": [
                     "btn-decoy"
                 ],
-                "xpath": "//button[@id='decoy_education_15']",
+                "xpath": "//button[@id='decoy_education_14']",
                 "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "scheduleBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='scheduleBtn']",
+                "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_15",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_15.html",
+        "target_element_id": "quizBtn",
+        "target_xpath_before": "//button[@id='quizBtn']",
+        "before_text": "Start Quiz",
+        "after_text": "Quiz Started",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "enrollBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='enrollBtn']",
+                "visible_text": "Enroll Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "quizBtn",
+                "class_list": [],
+                "xpath": "//button[@id='quizBtn']",
+                "visible_text": "Quiz Started",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "gradesBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='gradesBtn']",
+                "visible_text": "View Grades",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "materialBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='materialBtn']",
+                "visible_text": "Download Material",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "certificateBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='certificateBtn']",
+                "visible_text": "Download Certificate",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "discussBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='discussBtn']",
+                "visible_text": "Join Discussion",
                 "bounding_box": null
             },
             {
@@ -14782,7 +14911,7 @@
         "target_element_id": "gradesBtn",
         "target_xpath_before": "//button[@id='gradesBtn']",
         "before_text": "View Grades",
-        "after_text": "Check Grades",
+        "after_text": "Viewing Grades",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14837,9 +14966,11 @@
             {
                 "tag": "button",
                 "id": "gradesBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-secondary"
+                ],
                 "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "Check Grades",
+                "visible_text": "Viewing Grades",
                 "bounding_box": null
             },
             {
@@ -14880,6 +15011,16 @@
                 ],
                 "xpath": "//button[@id='scheduleBtn']",
                 "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_16",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_16']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -14911,7 +15052,7 @@
         "target_element_id": "gradesBtn",
         "target_xpath_before": "//button[@id='gradesBtn']",
         "before_text": "View Grades",
-        "after_text": "See Results",
+        "after_text": "To View Grades",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -14921,96 +15062,6 @@
                 ],
                 "xpath": "//button[@id='loginBtn']",
                 "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='startBtn']",
-                "visible_text": "Start Lesson",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Submit Assignment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "enrollBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Enroll Now",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "quizBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Start Quiz",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "gradesBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "See Results",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "materialBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Download Material",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "certificateBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Download Certificate",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "discussBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Join Discussion",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "scheduleBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "View Schedule",
                 "bounding_box": null
             },
             {
@@ -15020,57 +15071,6 @@
                     "btn-decoy"
                 ],
                 "xpath": "//button[@id='decoy_education_17']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "courseInput",
-                "class_list": [],
-                "xpath": "//input[@id='courseInput']",
-                "visible_text": "Course",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "education_after_18",
-        "domain": "education",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Education/education_after_18.html",
-        "target_element_id": "gradesBtn",
-        "target_xpath_before": "//button[@id='gradesBtn']",
-        "before_text": "View Grades",
-        "after_text": "View Marks",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_education_18",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_18']",
                 "visible_text": "Temporary Button",
                 "bounding_box": null
             },
@@ -15122,7 +15122,146 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "View Marks",
+                "visible_text": "To View Grades",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "materialBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='materialBtn']",
+                "visible_text": "Download Material",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "certificateBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='certificateBtn']",
+                "visible_text": "Download Certificate",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "discussBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='discussBtn']",
+                "visible_text": "Join Discussion",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "scheduleBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='scheduleBtn']",
+                "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_18",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_18.html",
+        "target_element_id": "gradesBtn",
+        "target_xpath_before": "//button[@id='gradesBtn']",
+        "before_text": "View Grades",
+        "after_text": "Grades Viewed",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "enrollBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='enrollBtn']",
+                "visible_text": "Enroll Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_18",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_18']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "quizBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='quizBtn']",
+                "visible_text": "Start Quiz",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "gradesBtn",
+                "class_list": [],
+                "xpath": "//button[@id='gradesBtn']",
+                "visible_text": "Grades Viewed",
                 "bounding_box": null
             },
             {
@@ -15194,7 +15333,7 @@
         "target_element_id": "materialBtn",
         "target_xpath_before": "//button[@id='materialBtn']",
         "before_text": "Download Material",
-        "after_text": "Download",
+        "after_text": "Downloading Material",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -15238,16 +15377,6 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_19",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_19']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "quizBtn",
                 "class_list": [
                     "btn-warning"
@@ -15269,9 +15398,11 @@
             {
                 "tag": "button",
                 "id": "materialBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-info"
+                ],
                 "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Download",
+                "visible_text": "Downloading Material",
                 "bounding_box": null
             },
             {
@@ -15333,138 +15464,7 @@
         "target_element_id": "materialBtn",
         "target_xpath_before": "//button[@id='materialBtn']",
         "before_text": "Download Material",
-        "after_text": "Get Course Material",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='startBtn']",
-                "visible_text": "Start Lesson",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Submit Assignment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "enrollBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Enroll Now",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "quizBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Start Quiz",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "gradesBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "View Grades",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "materialBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Get Course Material",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "certificateBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Download Certificate",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "discussBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Join Discussion",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "scheduleBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "View Schedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Log Out",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "courseInput",
-                "class_list": [],
-                "xpath": "//input[@id='courseInput']",
-                "visible_text": "Course",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "education_after_21",
-        "domain": "education",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Education/education_after_21.html",
-        "target_element_id": "materialBtn",
-        "target_xpath_before": "//button[@id='materialBtn']",
-        "before_text": "Download Material",
-        "after_text": "Download Notes",
+        "after_text": "To Download Material",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -15534,7 +15534,146 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Download Notes",
+                "visible_text": "To Download Material",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "certificateBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='certificateBtn']",
+                "visible_text": "Download Certificate",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "discussBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='discussBtn']",
+                "visible_text": "Join Discussion",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "scheduleBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='scheduleBtn']",
+                "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_21",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_21.html",
+        "target_element_id": "materialBtn",
+        "target_xpath_before": "//button[@id='materialBtn']",
+        "before_text": "Download Material",
+        "after_text": "Material Downloaded",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "enrollBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='enrollBtn']",
+                "visible_text": "Enroll Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "quizBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='quizBtn']",
+                "visible_text": "Start Quiz",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "gradesBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='gradesBtn']",
+                "visible_text": "View Grades",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "materialBtn",
+                "class_list": [],
+                "xpath": "//button[@id='materialBtn']",
+                "visible_text": "Material Downloaded",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "decoy_education_21",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_21']",
+                "visible_text": "Temporary Button",
                 "bounding_box": null
             },
             {
@@ -15596,7 +15735,7 @@
         "target_element_id": "certificateBtn",
         "target_xpath_before": "//button[@id='certificateBtn']",
         "before_text": "Download Certificate",
-        "after_text": "Get Certificate",
+        "after_text": "Downloading Certificate",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -15640,6 +15779,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_22",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_22']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "quizBtn",
                 "class_list": [
                     "btn-warning"
@@ -15670,20 +15819,13 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_22",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_22']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "certificateBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-success",
+                    "v2"
+                ],
                 "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Get Certificate",
+                "visible_text": "Downloading Certificate",
                 "bounding_box": null
             },
             {
@@ -15735,7 +15877,7 @@
         "target_element_id": "certificateBtn",
         "target_xpath_before": "//button[@id='certificateBtn']",
         "before_text": "Download Certificate",
-        "after_text": "Download Certification",
+        "after_text": "To Download Certificate",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -15779,16 +15921,6 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_23",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_23']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "quizBtn",
                 "class_list": [
                     "btn-warning"
@@ -15821,11 +15953,10 @@
                 "tag": "button",
                 "id": "certificateBtn",
                 "class_list": [
-                    "btn-success",
-                    "v2"
+                    "btn-success"
                 ],
                 "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Download Certification",
+                "visible_text": "To Download Certificate",
                 "bounding_box": null
             },
             {
@@ -15877,7 +16008,7 @@
         "target_element_id": "discussBtn",
         "target_xpath_before": "//button[@id='discussBtn']",
         "before_text": "Join Discussion",
-        "after_text": "Go to Discussion Board",
+        "after_text": "Joining Discussion",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -15951,6 +16082,16 @@
             },
             {
                 "tag": "button",
+                "id": "decoy_education_24",
+                "class_list": [
+                    "btn-decoy"
+                ],
+                "xpath": "//button[@id='decoy_education_24']",
+                "visible_text": "Temporary Button",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
                 "id": "certificateBtn",
                 "class_list": [
                     "btn-success"
@@ -15963,10 +16104,11 @@
                 "tag": "button",
                 "id": "discussBtn",
                 "class_list": [
-                    "btn-secondary"
+                    "btn-secondary",
+                    "v2"
                 ],
                 "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Go to Discussion Board",
+                "visible_text": "Joining Discussion",
                 "bounding_box": null
             },
             {
@@ -16008,7 +16150,7 @@
         "target_element_id": "discussBtn",
         "target_xpath_before": "//button[@id='discussBtn']",
         "before_text": "Join Discussion",
-        "after_text": "Join the Conversation",
+        "after_text": "To Join Discussion",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -16082,16 +16224,6 @@
             },
             {
                 "tag": "button",
-                "id": "decoy_education_25",
-                "class_list": [
-                    "btn-decoy"
-                ],
-                "xpath": "//button[@id='decoy_education_25']",
-                "visible_text": "Temporary Button",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
                 "id": "certificateBtn",
                 "class_list": [
                     "btn-success"
@@ -16103,12 +16235,9 @@
             {
                 "tag": "button",
                 "id": "discussBtn",
-                "class_list": [
-                    "btn-secondary",
-                    "v2"
-                ],
+                "class_list": [],
                 "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Join the Conversation",
+                "visible_text": "To Join Discussion",
                 "bounding_box": null
             },
             {
@@ -16150,7 +16279,7 @@
         "target_element_id": "scheduleBtn",
         "target_xpath_before": "//button[@id='scheduleBtn']",
         "before_text": "View Schedule",
-        "after_text": "Check Schedule",
+        "after_text": "Viewing Schedule",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -16245,9 +16374,11 @@
             {
                 "tag": "button",
                 "id": "scheduleBtn",
-                "class_list": [],
+                "class_list": [
+                    "btn-info"
+                ],
                 "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "Check Schedule",
+                "visible_text": "Viewing Schedule",
                 "bounding_box": null
             },
             {
@@ -16279,7 +16410,7 @@
         "target_element_id": "scheduleBtn",
         "target_xpath_before": "//button[@id='scheduleBtn']",
         "before_text": "View Schedule",
-        "after_text": "See Timetable",
+        "after_text": "To View Schedule",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -16375,10 +16506,11 @@
                 "tag": "button",
                 "id": "scheduleBtn",
                 "class_list": [
-                    "btn-info"
+                    "btn-info",
+                    "v2"
                 ],
                 "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "See Timetable",
+                "visible_text": "To View Schedule",
                 "bounding_box": null
             },
             {
@@ -16410,7 +16542,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Sign Out",
+        "after_text": "Logging Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -16520,7 +16652,7 @@
                     "v2"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Sign Out",
+                "visible_text": "Logging Out",
                 "bounding_box": null
             },
             {
@@ -16542,7 +16674,7 @@
         "target_element_id": "logoutBtn",
         "target_xpath_before": "//button[@id='logoutBtn']",
         "before_text": "Log Out",
-        "after_text": "Logout",
+        "after_text": "To Log Out",
         "interactable_elements": [
             {
                 "tag": "button",
@@ -16556,143 +16688,11 @@
             },
             {
                 "tag": "button",
-                "id": "startBtn",
-                "class_list": [
-                    "btn-primary"
-                ],
-                "xpath": "//button[@id='startBtn']",
-                "visible_text": "Start Lesson",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "submitAssignBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='submitAssignBtn']",
-                "visible_text": "Submit Assignment",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "enrollBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='enrollBtn']",
-                "visible_text": "Enroll Now",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "quizBtn",
-                "class_list": [
-                    "btn-warning"
-                ],
-                "xpath": "//button[@id='quizBtn']",
-                "visible_text": "Start Quiz",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "gradesBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='gradesBtn']",
-                "visible_text": "View Grades",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "materialBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='materialBtn']",
-                "visible_text": "Download Material",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "certificateBtn",
-                "class_list": [
-                    "btn-success"
-                ],
-                "xpath": "//button[@id='certificateBtn']",
-                "visible_text": "Download Certificate",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "discussBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='discussBtn']",
-                "visible_text": "Join Discussion",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "scheduleBtn",
-                "class_list": [
-                    "btn-info"
-                ],
-                "xpath": "//button[@id='scheduleBtn']",
-                "visible_text": "View Schedule",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "logoutBtn",
-                "class_list": [
-                    "btn-danger",
-                    "v2"
-                ],
-                "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Logout",
-                "bounding_box": null
-            },
-            {
-                "tag": "input",
-                "id": "courseInput",
-                "class_list": [],
-                "xpath": "//input[@id='courseInput']",
-                "visible_text": "Course",
-                "bounding_box": null
-            }
-        ]
-    },
-    {
-        "snapshot_id": "education_after_30",
-        "domain": "education",
-        "tier": "T1_English",
-        "state": "after",
-        "source_file": "Tier1 English/Education/education_after_30.html",
-        "target_element_id": "logoutBtn",
-        "target_xpath_before": "//button[@id='logoutBtn']",
-        "before_text": "Log Out",
-        "after_text": "Exit Account",
-        "interactable_elements": [
-            {
-                "tag": "button",
-                "id": "loginBtn",
-                "class_list": [
-                    "btn-secondary"
-                ],
-                "xpath": "//button[@id='loginBtn']",
-                "visible_text": "Sign In",
-                "bounding_box": null
-            },
-            {
-                "tag": "button",
-                "id": "decoy_education_30",
+                "id": "decoy_education_29",
                 "class_list": [
                     "btn-decoy"
                 ],
-                "xpath": "//button[@id='decoy_education_30']",
+                "xpath": "//button[@id='decoy_education_29']",
                 "visible_text": "Temporary Button",
                 "bounding_box": null
             },
@@ -16793,7 +16793,138 @@
                     "btn-danger"
                 ],
                 "xpath": "//button[@id='logoutBtn']",
-                "visible_text": "Exit Account",
+                "visible_text": "To Log Out",
+                "bounding_box": null
+            },
+            {
+                "tag": "input",
+                "id": "courseInput",
+                "class_list": [],
+                "xpath": "//input[@id='courseInput']",
+                "visible_text": "Course",
+                "bounding_box": null
+            }
+        ]
+    },
+    {
+        "snapshot_id": "education_after_30",
+        "domain": "education",
+        "tier": "T1_English",
+        "state": "after",
+        "source_file": "Tier1 English/Education/education_after_30.html",
+        "target_element_id": "logoutBtn",
+        "target_xpath_before": "//button[@id='logoutBtn']",
+        "before_text": "Log Out",
+        "after_text": "Logged Out",
+        "interactable_elements": [
+            {
+                "tag": "button",
+                "id": "loginBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='loginBtn']",
+                "visible_text": "Sign In",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "startBtn",
+                "class_list": [
+                    "btn-primary"
+                ],
+                "xpath": "//button[@id='startBtn']",
+                "visible_text": "Start Lesson",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "submitAssignBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='submitAssignBtn']",
+                "visible_text": "Submit Assignment",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "enrollBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='enrollBtn']",
+                "visible_text": "Enroll Now",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "quizBtn",
+                "class_list": [
+                    "btn-warning"
+                ],
+                "xpath": "//button[@id='quizBtn']",
+                "visible_text": "Start Quiz",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "gradesBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='gradesBtn']",
+                "visible_text": "View Grades",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "materialBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='materialBtn']",
+                "visible_text": "Download Material",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "certificateBtn",
+                "class_list": [
+                    "btn-success"
+                ],
+                "xpath": "//button[@id='certificateBtn']",
+                "visible_text": "Download Certificate",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "discussBtn",
+                "class_list": [
+                    "btn-secondary"
+                ],
+                "xpath": "//button[@id='discussBtn']",
+                "visible_text": "Join Discussion",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "scheduleBtn",
+                "class_list": [
+                    "btn-info"
+                ],
+                "xpath": "//button[@id='scheduleBtn']",
+                "visible_text": "View Schedule",
+                "bounding_box": null
+            },
+            {
+                "tag": "button",
+                "id": "logoutBtn",
+                "class_list": [
+                    "btn-danger"
+                ],
+                "xpath": "//button[@id='logoutBtn']",
+                "visible_text": "Logged Out",
                 "bounding_box": null
             },
             {
